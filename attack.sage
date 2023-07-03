@@ -110,7 +110,7 @@ class ExperimentStarter:
         ring = PolynomialRing(GF(prime), 'x', t*(R_F + R_P))
         system = poseidonminvar_last_squeeze_poly_system(poseidon, ring.gens(), hash_digest)
         # For modeling with minimum solving degree, uncomment the following code.
-        # R_F, R_P = (2, 0)
+        # R_F, R_P = (8, 3)
         # self.capacity = 1
         # self.rate = 1
         # self.input_sequence = [42] * self.rate
