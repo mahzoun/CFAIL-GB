@@ -124,7 +124,7 @@ class ExperimentStarter:
     def rescue_system(self, prime, num_rounds):
         self.rate = 1
         self.capacity = 1
-        num_part_rounds = 4
+        num_rounds = 4
         m = self.rate + self.capacity
         rp = Rescue(prime, m, self.capacity, 128, N=num_rounds)
         ring = PolynomialRing(GF(prime), 'x', 2*m*num_rounds)
