@@ -1,0 +1,718 @@
+Testing primitives…
+Testing Poseidon…
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_constants) generic in-place Gauss elimination on 24 x 48 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) generic in-place Gauss elimination on 23 x 46 matrix using classical algorithm
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 0.000560000000000116)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Multivariate Polynomial Ring in x0, x1, x2 over Finite Field of size 65519
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 65519
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 65519
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 65519
+std in (ZZ/65519),(x0,x1,x2),(dp(3),C)
+[65535:2]3(2)sss4s5s6
+(S:4)----
+product criterion:5 chain criterion:2
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 11.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 7.300000000043383e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 11
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 11
+Multivariate Polynomial Ring in x0, x1, x2, x3, x4, x5, x6, x7, x8 over Finite Field of size 11
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 11
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 11
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 11
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 11
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 11
+std in (ZZ/11),(x0,x1,x2,x3,x4,x5,x6,x7,x8),(dp(9),C)
+[1048575:4]3(8)s(7)s(6)ssss(5)sss4(4)sss5(5)sss(6)s6(7)s(8)s-s(9)s7(11)sss(13)s(15)s(17)s8(19)sssss(21)s(24)9-s(27)s(31)s(35)s(39)s(42)s(45)s(49)s(53)s(57)s(61)s(65)s(69)-----------10-s(61)s(64)s(68)s(72)ssss(76)s(80)s(85)s(90)s(95)--------------------------------------------11-s(55)s(60)s(65)s(70)--------------s(61)s(66)-s(70)-s(74)--------------------------12-s(52)s(57)s(62)s(67)s(71)s(75)s(79)s(84)s(89)s(94)s(99)s(104)ss(109)ss---------(100)----------------------13-s(82)s(87)s(92)--------------------------------------------------------------------------14------------------
+(S:57)---------------------------------------------------------
+product criterion:910 chain criterion:889
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 1021.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 6.4000000000064e-05)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 1021.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 4.7999999999603915e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 1021
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 4 x 4 matrix by 4 x 4 matrix modulo 1021
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 1021.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 4.099999999951365e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 1021
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 4 x 4 matrix by 4 x 4 matrix modulo 1021
+Multivariate Polynomial Ring in x0, x1, x2, x3, x4, x5, x6, x7 over Finite Field of size 1021
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 4 x 4 matrix by 4 x 1 matrix modulo 1021
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 4 x 4 matrix by 4 x 1 matrix modulo 1021
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 4 x 4 matrix by 4 x 1 matrix modulo 1021
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 4 x 4 matrix by 4 x 1 matrix modulo 1021
+std in (ZZ/1021),(x0,x1,x2,x3,x4,x5,x6,x7),(dp(8),C)
+[65535:3]3(7)s(6)ssss(7)s(6)s(5)s4(4)s(5)s(6)s(7)s(8)s5(9)s(11)s(13)s(15)s(17)s(19)s(21)s(23)s(25)s(27)6-s(28)s(30)s(32)s(34)s(36)s(38)s(41)s(44)s(47)s(50)s(53)s(56)--------------7-s(44)s(47)s(50)s(53)s(56)s(59)s(62)s(65)s(68)s(71)s(74)s(77)s(80)s(83)s(86)--------------------------8-s(62)s(65)s(68)s(71)s(74)s(77)s(80)s(83)s(86)s(89)s(92)s(95)s(98)s(101)s(104)----(100)----------------------------------------9-s(62)s(65)s(68)s(71)s(74)s(77)s(80)s(83)s(86)s(89)-------------------------------------------------10-s(42)s(45)s(48)s(51)-----------------------------------11-s(18)--------------12----
+(S:78)------------------------------------------------------------------------------
+product criterion:555 chain criterion:2262
+Multivariate Polynomial Ring in x0, x1, x2, x3 over Finite Field of size 9973
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 9973
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 3 x 3 matrix by 3 x 1 matrix modulo 9973
+std in (ZZ/9973),(x0,x1,x2,x3),(dp(4),C)
+[65535:2]3(3)s(2)sss4s5s6
+(S:5)-----
+product criterion:10 chain criterion:2
+Multivariate Polynomial Ring in x0, x1 over Finite Field of size 65519
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (poseidon_last_squeeze_trace) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+std in (ZZ/65519),(x0,x1),(dp(2),C)
+[65535:2]3ss
+(S:1)-
+product criterion:1 chain criterion:0
+std in (ZZ/65519),(x0,x1),(dp(2),C)
+[65535:2]3ss
+(S:1)-
+product criterion:1 chain criterion:0
+compute hilbert series with std in ring (ZZ/65519),(x0,x1,@),(dp(3),C)
+weights used for hilbert series: 1,1,1
+[65535:1]3ss
+(S:1)-
+product criterion:1 chain criterion:0
+std with hilb in (ZZ/65519),(x0,x1,@),(lp(2),dp(1),C)
+[65535:1]3ss
+(S:1)-
+product criterion:1 chain criterion:0
+dehomogenization
+simplification
+imap to ring (ZZ/65519),(x0,x1),(lp(2),C)
+//interreduction
+[65535:1]3ss
+(S:1)-
+
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/triang.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/elim.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/ring.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/primdec.lib (4.2.1.1,Jul_2021)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/absfact.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/matrix.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/nctools.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/random.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/polylib.lib (4.2.0.0,Dec_2020)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/inout.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/general.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/general.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/ring.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/primdec.lib (4.2.1.1,Jul_2021)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/absfact.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/triang.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/random.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/elim.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/matrix.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/nctools.lib (4.1.2.0,Feb_2019)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/polylib.lib (4.2.0.0,Dec_2020)
+// ** loaded /home/mcs001/20205040/mambaforge/envs/sage/bin/../share/singular/LIB/inout.lib (4.1.2.0,Feb_2019)
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage1=option(sage0);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage3=option(sage2);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage5=option(sage4);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage9=option(sage8);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage11=option(sage10);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage14=option(sage13);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage16=option(sage15);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage19=option(sage18);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage21=option(sage20);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage24=option(sage23);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage26=option(sage25);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage29=option(sage28);<<
+// ** right side is not a datum, assignment ignored
+// ** in line >>def sage31=option(sage30);<<
+// sage37 ideal 
+Testing of Poseidon completed
+Testing of primitives done.
+Starting experiment 'poseidon' over F_65519 with (2, 1) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 0.000232)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Experiment process started… ((2, 1) rounds)
+Process Process-1:
+Traceback (most recent call last):
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mcs001/20205040/new_model_t3/last_squeeze_attack.sage.py", line 91, in __call__
+    cputimes = int(ps_res.stdout)
+ValueError: invalid literal for int() with base 10: ''
+system in compute_gb: 
+ [-x0^3 + 19604*x0^2 + 27719*x0 + x1 - 20583, -4129*x1^3 - 1451*x1^2 - 5015*x1 + x2 + 3780, 25323*x1^3 - 19484*x1^2*x2 - 5093*x1*x2^2 - 31659*x2^3 + 28213*x1^2 - 8410*x1*x2 - 10794*x2^2 + 6538*x1 - 25679*x2 + 20237]
+Starting Gröbner basis computation…
+Finished computing Gröbner basis.
+gb:
+ [x2^5 + 8955*x2^4 + 32572*x1*x2^2 - 24416*x2^3 - 8307*x1^2 + 16976*x1*x2 - 9190*x2^2 + 4684*x1 + 30667*x2 + 26981, x1*x2^3 - 25304*x2^4 - 26774*x1*x2^2 - 20202*x2^3 + 10371*x1^2 - 18328*x1*x2 - 688*x2^2 - 30971*x1 - 26310*x2 - 22925, x0^3 - 19604*x0^2 - 27719*x0 - x1 + 20583, x1^3 + 1365*x1^2 + 31404*x1 - 18153*x2 - 19947, x1^2*x2 + 17409*x1*x2^2 + 9508*x2^3 - 6197*x1^2 + 26586*x1*x2 - 10175*x2^2 + 23887*x1 + 25840*x2 + 21253]
+Memory measuring process started… ((2, 1) rounds)
+[(2, 10), (5, 14), (7, 16), (9, 17)]
+
+Experiment process started… ((2, 2) rounds)
+Starting experiment 'poseidon' over F_65519 with (2, 2) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 0.00023100000000000117)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 6.999999999999888e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 4.300000000000137e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Process Process-3:
+Traceback (most recent call last):
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mcs001/20205040/new_model_t3/last_squeeze_attack.sage.py", line 91, in __call__
+    cputimes = int(ps_res.stdout)
+ValueError: invalid literal for int() with base 10: ''
+system in compute_gb: 
+ [-x0^3 + 19604*x0^2 + 27719*x0 + x1 - 20583, -4129*x1^3 - 1451*x1^2 - 5015*x1 + x2 + 3780, -24151*x1^3 - 6711*x1^2*x2 + 14850*x1*x2^2 - 4129*x2^3 - 5550*x1^2 - 4639*x1*x2 - 6993*x2^2 - 9299*x1 - 21482*x2 + x3 + 13809, -13199*x1^3 + 28737*x1^2*x2 + 4286*x1*x2^2 + 25323*x2^3 - 10480*x1^2*x3 - 6821*x1*x2*x3 - 19484*x2^2*x3 + 20321*x1*x3^2 - 5093*x2*x3^2 - 31659*x3^3 + 27494*x1^2 - 31521*x1*x2 + 24381*x2^2 - 7217*x1*x3 + 2065*x2*x3 + 12592*x3^2 - 22233*x1 + 17183*x2 - 31092*x3 + 5104]
+Starting Gröbner basis computation…
+Finished computing Gröbner basis.
+gb:
+ [x3^7 + 28922*x3^6 + 31508*x1*x3^4 - 29319*x2*x3^4 + 13896*x3^5 - 970*x1^2*x3^2 - 1499*x1*x2*x3^2 + 24906*x2^2*x3^2 + 24530*x1*x3^3 - 20974*x2*x3^3 + 6501*x3^4 - 13891*x2^3 - 18338*x1^2*x3 + 25796*x1*x2*x3 + 30554*x2^2*x3 - 2829*x1*x3^2 - 8183*x2*x3^2 + 27557*x3^3 + 6916*x1^2 - 28714*x1*x2 + 3582*x2^2 + 19082*x1*x3 + 14810*x2*x3 + 5862*x3^2 - 32405*x1 - 21861*x2 + 7790*x3 + 9078, x1*x3^5 + 3038*x3^6 - 10466*x1*x3^4 + 15140*x2*x3^4 - 455*x3^5 - 17411*x1^2*x3^2 + 13349*x1*x2*x3^2 + 3989*x2^2*x3^2 + 32361*x1*x3^3 + 30610*x2*x3^3 + 27570*x3^4 - 20018*x2^3 - 6019*x1^2*x3 - 21394*x1*x2*x3 + 26078*x2^2*x3 + 16685*x1*x3^2 + 11492*x2*x3^2 + 13709*x3^3 + 15575*x1^2 - 18988*x1*x2 - 6904*x2^2 + 20014*x1*x3 + 29154*x2*x3 + 31879*x3^2 + 1276*x1 - 31843*x2 + 28731*x3 - 21028, x2*x3^5 - 10974*x3^6 + 10352*x1*x3^4 + 28948*x2*x3^4 + 20174*x3^5 + 7240*x1^2*x3^2 - 11589*x1*x2*x3^2 + 19092*x2^2*x3^2 - 30980*x1*x3^3 + 8726*x2*x3^3 - 29609*x3^4 - 15372*x2^3 + 17770*x1^2*x3 + 16455*x1*x2*x3 - 31296*x2^2*x3 - 30151*x1*x3^2 - 17016*x2*x3^2 + 1868*x3^3 - 27708*x1^2 - 11382*x1*x2 + 8551*x2^2 - 24250*x1*x3 + 26779*x2*x3 - 17317*x3^2 - 1704*x1 + 4736*x2 + 31007*x3 - 26739, x1^2*x3^3 - 15717*x1*x3^4 + 3341*x2*x3^4 - 7760*x3^5 - 9247*x1^2*x3^2 - 27409*x1*x2*x3^2 - 1372*x2^2*x3^2 + 27817*x1*x3^3 + 15748*x2*x3^3 - 6339*x3^4 - 21861*x2^3 + 32526*x1^2*x3 + 28226*x1*x2*x3 + 22217*x2^2*x3 + 25275*x1*x3^2 - 9197*x2*x3^2 + 29436*x3^3 - 23604*x1^2 - 11601*x1*x2 + 2960*x2^2 + 10924*x1*x3 + 9043*x2*x3 + 14690*x3^2 - 7381*x1 + 29964*x2 + 3167*x3 + 22368, x1*x2*x3^3 - 17894*x1*x3^4 + 23240*x2*x3^4 - 18299*x3^5 - 26401*x1^2*x3^2 + 21714*x1*x2*x3^2 - 25573*x2^2*x3^2 + 22199*x1*x3^3 - 18322*x2*x3^3 - 1234*x3^4 + 1739*x2^3 + 23464*x1^2*x3 - 16765*x1*x2*x3 - 11234*x2^2*x3 + 6971*x1*x3^2 - 21159*x2*x3^2 + 27813*x3^3 - 11566*x1^2 - 9087*x1*x2 - 17631*x2^2 + 19766*x1*x3 + 21629*x2*x3 - 20738*x3^2 - 2964*x1 - 19605*x2 - 19264*x3 + 18059, x2^2*x3^3 - 28365*x1*x3^4 - 21382*x2*x3^4 + 31824*x3^5 + 12496*x1^2*x3^2 - 11000*x1*x2*x3^2 - 8177*x2^2*x3^2 + 10413*x1*x3^3 + 31480*x2*x3^3 + 17858*x3^4 + 14799*x2^3 - 7193*x1^2*x3 + 7184*x1*x2*x3 - 29261*x2^2*x3 + 4643*x1*x3^2 + 8413*x2*x3^2 - 15279*x3^3 + 20062*x1^2 - 16180*x1*x2 - 20342*x2^2 + 24745*x1*x3 + 2435*x2*x3 - 30726*x3^2 - 5989*x1 - 21984*x2 - 8942*x3 + 1929, x2^4 - 1212*x1^2*x3^2 + 1707*x1*x2*x3^2 - 30845*x2^2*x3^2 + 9030*x1*x3^3 - 26956*x2*x3^3 + 9021*x3^4 - 17260*x2^3 + 9018*x1^2*x3 + 27666*x1*x2*x3 + 28717*x2^2*x3 + 24881*x1*x3^2 + 1909*x2*x3^2 + 13441*x3^3 - 23904*x1^2 - 32016*x1*x2 - 11631*x2^2 + 29242*x1*x3 - 17334*x2*x3 + 2064*x3^2 - 17347*x1 - 13923*x2 + 17451*x3 - 24411, x2^3*x3 - 15280*x1^2*x3^2 + 13756*x1*x2*x3^2 - 19445*x2^2*x3^2 + 17913*x1*x3^3 + 9128*x2*x3^3 - 25797*x3^4 + 18330*x2^3 + 2482*x1^2*x3 - 26107*x1*x2*x3 + 30375*x2^2*x3 - 11006*x1*x3^2 + 26328*x2*x3^2 - 29513*x3^3 + 21181*x1^2 + 5819*x1*x2 - 26956*x2^2 + 11335*x1*x3 + 32752*x2*x3 + 31578*x3^2 - 8116*x1 - 751*x2 - 25400*x3 + 29399, x0^3 - 19604*x0^2 - 27719*x0 - x1 + 20583, x1^3 + 1365*x1^2 + 31404*x1 - 18153*x2 - 19947, x1^2*x2 - 367*x2^3 + 1239*x1^2*x3 + 20931*x1*x2*x3 + 4029*x2^2*x3 - 5147*x1*x3^2 - 29988*x2*x3^2 - 20883*x3^3 - 10500*x1^2 - 17822*x1*x2 + 19985*x2^2 + 28505*x1*x3 - 4089*x2*x3 - 19794*x3^2 + 13562*x1 + 4855*x2 - 12557*x3 - 30856, x1*x2^2 + 29677*x2^3 + 30381*x1^2*x3 - 11229*x1*x2*x3 + 4243*x2^2*x3 + 23233*x1*x3^2 + 26474*x2*x3^2 - 17260*x3^3 + 30631*x1^2 + 27017*x1*x2 + 32115*x2^2 + 27905*x1*x3 - 17771*x2*x3 - 20699*x3^2 - 32244*x1 + 30556*x2 - 30144*x3 + 27368]
+Memory measuring process started… ((2, 2) rounds)
+[(3, 20), (11, 34), (22, 48), (29, 52), (30, 54), (29, 54)]
+
+Experiment process started… ((2, 3) rounds)
+Starting experiment 'poseidon' over F_65519 with (2, 3) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 0.0002599999999999998)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 5.9000000000000025e-05)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 4.200000000000037e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.300000000000004e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 2.000000000000092e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Process Process-5:
+Traceback (most recent call last):
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mcs001/20205040/new_model_t3/last_squeeze_attack.sage.py", line 91, in __call__
+    cputimes = int(ps_res.stdout)
+ValueError: invalid literal for int() with base 10: ''
+system in compute_gb: 
+ [-x0^3 + 19604*x0^2 + 27719*x0 + x1 - 20583, -4129*x1^3 - 1451*x1^2 - 5015*x1 + x2 + 3780, -24151*x1^3 - 6711*x1^2*x2 + 14850*x1*x2^2 - 4129*x2^3 - 5550*x1^2 - 4639*x1*x2 - 6993*x2^2 - 9299*x1 - 21482*x2 + x3 + 13809, 25267*x1^3 - 9954*x1^2*x2 - 22352*x1*x2^2 - 24151*x2^3 - 3133*x1^2*x3 - 24444*x1*x2*x3 - 6711*x2^2*x3 - 22922*x1*x3^2 + 14850*x2*x3^2 - 4129*x3^3 + 29425*x1^2 - 20307*x1*x2 + 11480*x2^2 - 13994*x1*x3 + 23998*x2*x3 + 1361*x3^2 - 3505*x1 - 23523*x2 + 6478*x3 + x4 - 27063, 31241*x1^3 + 4164*x1^2*x2 + 13310*x1*x2^2 - 13199*x2^3 - 29999*x1^2*x3 - 225*x1*x2*x3 + 28737*x2^2*x3 + 23110*x1*x3^2 + 4286*x2*x3^2 + 25323*x3^3 - 29688*x1^2*x4 + 8213*x1*x2*x4 - 10480*x2^2*x4 + 5962*x1*x3*x4 - 6821*x2*x3*x4 - 19484*x3^2*x4 - 16185*x1*x4^2 + 20321*x2*x4^2 - 5093*x3*x4^2 - 31659*x4^3 - 23750*x1^2 + 5726*x1*x2 - 113*x2^2 + 16840*x1*x3 + 29022*x2*x3 + 12275*x3^2 + 7189*x1*x4 - 6884*x2*x4 + 12200*x3*x4 - 27872*x4^2 - 4721*x1 + 13326*x2 + 32577*x3 + 8844*x4 + 19581]
+Starting Gröbner basis computation…
+Finished computing Gröbner basis.
+gb:
+ Polynomial Sequence with 30 Polynomials in 5 Variables
+Memory measuring process started… ((2, 3) rounds)
+[(4, 35), (18, 68), (39, 105), (76, 143), (93, 161), (105, 171), (98, 171), (91, 169)]
+
+Experiment process started… ((2, 4) rounds)
+Starting experiment 'poseidon' over F_65519 with (2, 4) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 0.00024399999999999943)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 5.699999999999976e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.499999999999985e-05)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.199999999999991e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.300000000000004e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.899999999999992e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 2.499999999999898e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Process Process-7:
+Traceback (most recent call last):
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mcs001/20205040/new_model_t3/last_squeeze_attack.sage.py", line 91, in __call__
+    cputimes = int(ps_res.stdout)
+ValueError: invalid literal for int() with base 10: ''
+system in compute_gb: 
+ [-x0^3 + 19604*x0^2 + 27719*x0 + x1 - 20583, -4129*x1^3 - 1451*x1^2 - 5015*x1 + x2 + 3780, -24151*x1^3 - 6711*x1^2*x2 + 14850*x1*x2^2 - 4129*x2^3 - 5550*x1^2 - 4639*x1*x2 - 6993*x2^2 - 9299*x1 - 21482*x2 + x3 + 13809, 25267*x1^3 - 9954*x1^2*x2 - 22352*x1*x2^2 - 24151*x2^3 - 3133*x1^2*x3 - 24444*x1*x2*x3 - 6711*x2^2*x3 - 22922*x1*x3^2 + 14850*x2*x3^2 - 4129*x3^3 + 29425*x1^2 - 20307*x1*x2 + 11480*x2^2 - 13994*x1*x3 + 23998*x2*x3 + 1361*x3^2 - 3505*x1 - 23523*x2 + 6478*x3 + x4 - 27063, -7183*x1^3 - 24896*x1^2*x2 + 18337*x1*x2^2 + 25267*x2^3 + 15117*x1^2*x3 + 16149*x1*x2*x3 - 9954*x2^2*x3 - 24442*x1*x3^2 - 22352*x2*x3^2 - 24151*x3^3 - 10664*x1^2*x4 - 11366*x1*x2*x4 - 3133*x2^2*x4 + 25634*x1*x3*x4 - 24444*x2*x3*x4 - 6711*x3^2*x4 + 13756*x1*x4^2 - 22922*x2*x4^2 + 14850*x3*x4^2 - 4129*x4^3 + 26375*x1^2 + 3302*x1*x2 + 31704*x2^2 - 6421*x1*x3 + 2974*x2*x3 - 19817*x3^2 + 3225*x1*x4 + 23118*x2*x4 + 18580*x3*x4 - 13176*x4^2 - 20500*x1 + 31321*x2 - 4336*x3 - 4669*x4 + x5 - 17460, -27679*x1^3 - 17906*x1^2*x2 + 26970*x1*x2^2 + 31241*x2^3 - 14188*x1^2*x3 + 27556*x1*x2*x3 + 4164*x2^2*x3 - 9467*x1*x3^2 + 13310*x2*x3^2 - 13199*x3^3 - 15925*x1^2*x4 - 11940*x1*x2*x4 - 29999*x2^2*x4 + 23256*x1*x3*x4 - 225*x2*x3*x4 + 28737*x3^2*x4 - 18127*x1*x4^2 + 23110*x2*x4^2 + 4286*x3*x4^2 + 25323*x4^3 + 7494*x1^2*x5 - 19310*x1*x2*x5 - 29688*x2^2*x5 - 7721*x1*x3*x5 + 8213*x2*x3*x5 - 10480*x3^2*x5 - 16632*x1*x4*x5 + 5962*x2*x4*x5 - 6821*x3*x4*x5 - 19484*x4^2*x5 - 25241*x1*x5^2 - 16185*x2*x5^2 + 20321*x3*x5^2 - 5093*x4*x5^2 - 31659*x5^3 - 27559*x1^2 - 31103*x1*x2 + 6845*x2^2 - 16491*x1*x3 - 11536*x2*x3 - 29368*x3^2 - 7858*x1*x4 + 4153*x2*x4 - 30118*x3*x4 - 23682*x4^2 - 14816*x1*x5 + 6697*x2*x5 - 29978*x3*x5 + 25104*x4*x5 - 32447*x5^2 - 18761*x1 + 16686*x2 + 4983*x3 + 5146*x4 - 32523*x5 + 25219]
+Starting Gröbner basis computation…
+Finished computing Gröbner basis.
+gb:
+ Polynomial Sequence with 77 Polynomials in 6 Variables
+Memory measuring process started… ((2, 4) rounds)
+[(5, 56), (28, 124), (76, 222), (158, 335), (249, 444), (315, 507), (350, 542), (341, 548), (315, 543), (299, 538)]
+
+Experiment process started… ((2, 5) rounds)
+Starting experiment 'poseidon' over F_65519 with (2, 5) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 0.00023800000000000036)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 5.500000000000036e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.599999999999998e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.2000000000001185e-05)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 4.49999999999999e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.199999999999904e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.9999999999999185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.9000000000001654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8000000000000654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Process Process-9:
+Traceback (most recent call last):
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mcs001/20205040/new_model_t3/last_squeeze_attack.sage.py", line 91, in __call__
+    cputimes = int(ps_res.stdout)
+ValueError: invalid literal for int() with base 10: ''
+system in compute_gb: 
+ [-x0^3 + 19604*x0^2 + 27719*x0 + x1 - 20583, -4129*x1^3 - 1451*x1^2 - 5015*x1 + x2 + 3780, -24151*x1^3 - 6711*x1^2*x2 + 14850*x1*x2^2 - 4129*x2^3 - 5550*x1^2 - 4639*x1*x2 - 6993*x2^2 - 9299*x1 - 21482*x2 + x3 + 13809, 25267*x1^3 - 9954*x1^2*x2 - 22352*x1*x2^2 - 24151*x2^3 - 3133*x1^2*x3 - 24444*x1*x2*x3 - 6711*x2^2*x3 - 22922*x1*x3^2 + 14850*x2*x3^2 - 4129*x3^3 + 29425*x1^2 - 20307*x1*x2 + 11480*x2^2 - 13994*x1*x3 + 23998*x2*x3 + 1361*x3^2 - 3505*x1 - 23523*x2 + 6478*x3 + x4 - 27063, -7183*x1^3 - 24896*x1^2*x2 + 18337*x1*x2^2 + 25267*x2^3 + 15117*x1^2*x3 + 16149*x1*x2*x3 - 9954*x2^2*x3 - 24442*x1*x3^2 - 22352*x2*x3^2 - 24151*x3^3 - 10664*x1^2*x4 - 11366*x1*x2*x4 - 3133*x2^2*x4 + 25634*x1*x3*x4 - 24444*x2*x3*x4 - 6711*x3^2*x4 + 13756*x1*x4^2 - 22922*x2*x4^2 + 14850*x3*x4^2 - 4129*x4^3 + 26375*x1^2 + 3302*x1*x2 + 31704*x2^2 - 6421*x1*x3 + 2974*x2*x3 - 19817*x3^2 + 3225*x1*x4 + 23118*x2*x4 + 18580*x3*x4 - 13176*x4^2 - 20500*x1 + 31321*x2 - 4336*x3 - 4669*x4 + x5 - 17460, -22104*x1^3 + 26452*x1^2*x2 + 28796*x1*x2^2 - 7183*x2^3 - 23578*x1^2*x3 + 20763*x1*x2*x3 - 24896*x2^2*x3 - 12798*x1*x3^2 + 18337*x2*x3^2 + 25267*x3^3 + 13943*x1^2*x4 + 12028*x1*x2*x4 + 15117*x2^2*x4 - 29397*x1*x3*x4 + 16149*x2*x3*x4 - 9954*x3^2*x4 - 18275*x1*x4^2 - 24442*x2*x4^2 - 22352*x3*x4^2 - 24151*x4^3 + 18323*x1^2*x5 - 32561*x1*x2*x5 - 10664*x2^2*x5 - 31428*x1*x3*x5 - 11366*x2*x3*x5 - 3133*x3^2*x5 - 7897*x1*x4*x5 + 25634*x2*x4*x5 - 24444*x3*x4*x5 - 6711*x4^2*x5 + 9733*x1*x5^2 + 13756*x2*x5^2 - 22922*x3*x5^2 + 14850*x4*x5^2 - 4129*x5^3 + 16777*x1^2 + 16296*x1*x2 + 7800*x2^2 - 14466*x1*x3 - 16164*x2*x3 - 5032*x3^2 - 3022*x1*x4 - 9165*x2*x4 + 32428*x3*x4 - 15735*x4^2 + 10436*x1*x5 - 22335*x2*x5 - 9869*x3*x5 + 837*x4*x5 - 26378*x5^2 + 19088*x1 + 132*x2 - 24530*x3 + 29406*x4 + 567*x5 + x6 - 3628, -29980*x1^3 + 24866*x1^2*x2 - 17396*x1*x2^2 - 27679*x2^3 - 11292*x1^2*x3 - 22940*x1*x2*x3 - 17906*x2^2*x3 + 28150*x1*x3^2 + 26970*x2*x3^2 + 31241*x3^3 - 21325*x1^2*x4 + 4768*x1*x2*x4 - 14188*x2^2*x4 + 30165*x1*x3*x4 + 27556*x2*x3*x4 + 4164*x3^2*x4 + 2398*x1*x4^2 - 9467*x2*x4^2 + 13310*x3*x4^2 - 13199*x4^3 + 6203*x1^2*x5 + 32088*x1*x2*x5 - 15925*x2^2*x5 - 25758*x1*x3*x5 - 11940*x2*x3*x5 - 29999*x3^2*x5 + 26784*x1*x4*x5 + 23256*x2*x4*x5 - 225*x3*x4*x5 + 28737*x4^2*x5 - 18732*x1*x5^2 - 18127*x2*x5^2 + 23110*x3*x5^2 + 4286*x4*x5^2 + 25323*x5^3 - 14356*x1^2*x6 - 20685*x1*x2*x6 + 7494*x2^2*x6 + 3768*x1*x3*x6 - 19310*x2*x3*x6 - 29688*x3^2*x6 - 2612*x1*x4*x6 - 7721*x2*x4*x6 + 8213*x3*x4*x6 - 10480*x4^2*x6 - 8687*x1*x5*x6 - 16632*x2*x5*x6 + 5962*x3*x5*x6 - 6821*x4*x5*x6 - 19484*x5^2*x6 + 25796*x1*x6^2 - 25241*x2*x6^2 - 16185*x3*x6^2 + 20321*x4*x6^2 - 5093*x5*x6^2 - 31659*x6^3 + 5579*x1^2 - 28288*x1*x2 + 12722*x2^2 + 2221*x1*x3 + 26752*x2*x3 + 1028*x3^2 + 3117*x1*x4 + 11831*x2*x4 + 29660*x3*x4 - 3406*x4^2 + 8325*x1*x5 - 17647*x2*x5 + 31077*x3*x5 - 25367*x4*x5 - 22520*x5^2 - 23927*x1*x6 - 15928*x2*x6 + 25077*x3*x6 - 19823*x4*x6 - 13713*x5*x6 + 5107*x6^2 + 4352*x1 + 21861*x2 + 30959*x3 - 21968*x4 + 12121*x5 + 6036*x6 + 21622]
+Starting Gröbner basis computation…
+Finished computing Gröbner basis.
+gb:
+ Polynomial Sequence with 206 Polynomials in 7 Variables
+Memory measuring process started… ((2, 5) rounds)
+[(6, 84), (40, 208), (129, 421), (315, 722), (550, 1057), (827, 1379), (1018, 1579), (1154, 1705), (1140, 1738), (1072, 1731), (1012, 1717), (984, 1708)]
+
+Experiment process started… ((2, 6) rounds)
+Starting experiment 'poseidon' over F_65519 with (2, 6) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 0.00023599999999999923)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 6.000000000000016e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.3999999999999716e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.2999999999999583e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.2000000000000318e-05)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.899999999999997e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.500000000000031e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 2.1000000000000185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.899999999999992e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8000000000000654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8000000000000654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Process Process-11:
+Traceback (most recent call last):
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mcs001/20205040/new_model_t3/last_squeeze_attack.sage.py", line 91, in __call__
+    cputimes = int(ps_res.stdout)
+ValueError: invalid literal for int() with base 10: ''
+system in compute_gb: 
+ [-x0^3 + 19604*x0^2 + 27719*x0 + x1 - 20583, -4129*x1^3 - 1451*x1^2 - 5015*x1 + x2 + 3780, -24151*x1^3 - 6711*x1^2*x2 + 14850*x1*x2^2 - 4129*x2^3 - 5550*x1^2 - 4639*x1*x2 - 6993*x2^2 - 9299*x1 - 21482*x2 + x3 + 13809, 25267*x1^3 - 9954*x1^2*x2 - 22352*x1*x2^2 - 24151*x2^3 - 3133*x1^2*x3 - 24444*x1*x2*x3 - 6711*x2^2*x3 - 22922*x1*x3^2 + 14850*x2*x3^2 - 4129*x3^3 + 29425*x1^2 - 20307*x1*x2 + 11480*x2^2 - 13994*x1*x3 + 23998*x2*x3 + 1361*x3^2 - 3505*x1 - 23523*x2 + 6478*x3 + x4 - 27063, -7183*x1^3 - 24896*x1^2*x2 + 18337*x1*x2^2 + 25267*x2^3 + 15117*x1^2*x3 + 16149*x1*x2*x3 - 9954*x2^2*x3 - 24442*x1*x3^2 - 22352*x2*x3^2 - 24151*x3^3 - 10664*x1^2*x4 - 11366*x1*x2*x4 - 3133*x2^2*x4 + 25634*x1*x3*x4 - 24444*x2*x3*x4 - 6711*x3^2*x4 + 13756*x1*x4^2 - 22922*x2*x4^2 + 14850*x3*x4^2 - 4129*x4^3 + 26375*x1^2 + 3302*x1*x2 + 31704*x2^2 - 6421*x1*x3 + 2974*x2*x3 - 19817*x3^2 + 3225*x1*x4 + 23118*x2*x4 + 18580*x3*x4 - 13176*x4^2 - 20500*x1 + 31321*x2 - 4336*x3 - 4669*x4 + x5 - 17460, -22104*x1^3 + 26452*x1^2*x2 + 28796*x1*x2^2 - 7183*x2^3 - 23578*x1^2*x3 + 20763*x1*x2*x3 - 24896*x2^2*x3 - 12798*x1*x3^2 + 18337*x2*x3^2 + 25267*x3^3 + 13943*x1^2*x4 + 12028*x1*x2*x4 + 15117*x2^2*x4 - 29397*x1*x3*x4 + 16149*x2*x3*x4 - 9954*x3^2*x4 - 18275*x1*x4^2 - 24442*x2*x4^2 - 22352*x3*x4^2 - 24151*x4^3 + 18323*x1^2*x5 - 32561*x1*x2*x5 - 10664*x2^2*x5 - 31428*x1*x3*x5 - 11366*x2*x3*x5 - 3133*x3^2*x5 - 7897*x1*x4*x5 + 25634*x2*x4*x5 - 24444*x3*x4*x5 - 6711*x4^2*x5 + 9733*x1*x5^2 + 13756*x2*x5^2 - 22922*x3*x5^2 + 14850*x4*x5^2 - 4129*x5^3 + 16777*x1^2 + 16296*x1*x2 + 7800*x2^2 - 14466*x1*x3 - 16164*x2*x3 - 5032*x3^2 - 3022*x1*x4 - 9165*x2*x4 + 32428*x3*x4 - 15735*x4^2 + 10436*x1*x5 - 22335*x2*x5 - 9869*x3*x5 + 837*x4*x5 - 26378*x5^2 + 19088*x1 + 132*x2 - 24530*x3 + 29406*x4 + 567*x5 + x6 - 3628, -19497*x1^3 - 23326*x1^2*x2 + 7761*x1*x2^2 - 22104*x2^3 + 17715*x1^2*x3 - 27984*x1*x2*x3 + 26452*x2^2*x3 - 4710*x1*x3^2 + 28796*x2*x3^2 - 7183*x3^3 + 16672*x1^2*x4 + 24359*x1*x2*x4 - 23578*x2^2*x4 - 18463*x1*x3*x4 + 20763*x2*x3*x4 - 24896*x3^2*x4 - 26193*x1*x4^2 - 12798*x2*x4^2 + 18337*x3*x4^2 + 25267*x4^3 + 18257*x1^2*x5 - 9767*x1*x2*x5 + 13943*x2^2*x5 + 21914*x1*x3*x5 + 12028*x2*x3*x5 + 15117*x3^2*x5 + 11666*x1*x4*x5 - 29397*x2*x4*x5 + 16149*x3*x4*x5 - 9954*x4^2*x5 - 21998*x1*x5^2 - 18275*x2*x5^2 - 24442*x3*x5^2 - 22352*x4*x5^2 - 24151*x5^3 - 32608*x1^2*x6 + 10834*x1*x2*x6 + 18323*x2^2*x6 + 7187*x1*x3*x6 - 32561*x2*x3*x6 - 10664*x3^2*x6 + 29395*x1*x4*x6 - 31428*x2*x4*x6 - 11366*x3*x4*x6 - 3133*x4^2*x6 - 27973*x1*x5*x6 - 7897*x2*x5*x6 + 25634*x3*x5*x6 - 24444*x4*x5*x6 - 6711*x5^2*x6 + 32560*x1*x6^2 + 9733*x2*x6^2 + 13756*x3*x6^2 - 22922*x4*x6^2 + 14850*x5*x6^2 - 4129*x6^3 - 25377*x1^2 - 16544*x1*x2 - 9910*x2^2 - 29057*x1*x3 - 26114*x2*x3 - 2850*x3^2 - 27398*x1*x4 - 17394*x2*x4 + 10946*x3*x4 - 23361*x4^2 + 16252*x1*x5 + 13704*x2*x5 - 13031*x3*x5 + 8311*x4*x5 + 27169*x5^2 + 28561*x1*x6 - 13893*x2*x6 - 659*x3*x6 + 2346*x4*x6 + 11034*x5*x6 + 17198*x6^2 - 1584*x1 - 24202*x2 + 15622*x3 + 23427*x4 - 4264*x5 + 10519*x6 + x7 - 14091, 29201*x1^3 - 2818*x1^2*x2 + 24875*x1*x2^2 - 29980*x2^3 - 11135*x1^2*x3 + 5007*x1*x2*x3 + 24866*x2^2*x3 + 28702*x1*x3^2 - 17396*x2*x3^2 - 27679*x3^3 + 211*x1^2*x4 + 20851*x1*x2*x4 - 11292*x2^2*x4 + 28559*x1*x3*x4 - 22940*x2*x3*x4 - 17906*x3^2*x4 - 3085*x1*x4^2 + 28150*x2*x4^2 + 26970*x3*x4^2 + 31241*x4^3 + 13807*x1^2*x5 + 13200*x1*x2*x5 - 21325*x2^2*x5 + 27543*x1*x3*x5 + 4768*x2*x3*x5 - 14188*x3^2*x5 - 14521*x1*x4*x5 + 30165*x2*x4*x5 + 27556*x3*x4*x5 + 4164*x4^2*x5 - 11975*x1*x5^2 + 2398*x2*x5^2 - 9467*x3*x5^2 + 13310*x4*x5^2 - 13199*x5^3 + 26783*x1^2*x6 - 23009*x1*x2*x6 + 6203*x2^2*x6 + 32043*x1*x3*x6 + 32088*x2*x3*x6 - 15925*x3^2*x6 - 5230*x1*x4*x6 - 25758*x2*x4*x6 - 11940*x3*x4*x6 - 29999*x4^2*x6 - 13311*x1*x5*x6 + 26784*x2*x5*x6 + 23256*x3*x5*x6 - 225*x4*x5*x6 + 28737*x5^2*x6 + 32751*x1*x6^2 - 18732*x2*x6^2 - 18127*x3*x6^2 + 23110*x4*x6^2 + 4286*x5*x6^2 + 25323*x6^3 - 26576*x1^2*x7 - 17657*x1*x2*x7 - 14356*x2^2*x7 + 4211*x1*x3*x7 - 20685*x2*x3*x7 + 7494*x3^2*x7 - 19194*x1*x4*x7 + 3768*x2*x4*x7 - 19310*x3*x4*x7 - 29688*x4^2*x7 + 23175*x1*x5*x7 - 2612*x2*x5*x7 - 7721*x3*x5*x7 + 8213*x4*x5*x7 - 10480*x5^2*x7 - 10037*x1*x6*x7 - 8687*x2*x6*x7 - 16632*x3*x6*x7 + 5962*x4*x6*x7 - 6821*x5*x6*x7 - 19484*x6^2*x7 - 20377*x1*x7^2 + 25796*x2*x7^2 - 25241*x3*x7^2 - 16185*x4*x7^2 + 20321*x5*x7^2 - 5093*x6*x7^2 - 31659*x7^3 - 29722*x1^2 - 18034*x1*x2 + 13247*x2^2 + 9592*x1*x3 - 8363*x2*x3 - 15569*x3^2 - 19437*x1*x4 + 12515*x2*x4 - 12722*x3*x4 + 29986*x4^2 + 16946*x1*x5 + 22903*x2*x5 - 6545*x3*x5 + 27911*x4*x5 - 27581*x5^2 + 18068*x1*x6 + 32005*x2*x6 - 26873*x3*x6 - 29954*x4*x6 + 960*x5*x6 - 26191*x6^2 - 18992*x1*x7 + 15441*x2*x7 + 14444*x3*x7 - 24669*x4*x7 + 20886*x5*x7 + 23154*x6*x7 - 20625*x7^2 + 12169*x1 + 18012*x2 + 30380*x3 + 31405*x4 - 8539*x5 + 2294*x6 + 22107*x7 + 22819]
+Starting Gröbner basis computation…
+Finished computing Gröbner basis.
+gb:
+ Polynomial Sequence with 556 Polynomials in 8 Variables
+Memory measuring process started… ((2, 6) rounds)
+[(7, 120), (54, 328), (195, 732), (555, 1407), (1121, 2318), (1885, 3329), (2697, 4305), (3248, 4881), (3703, 5308), (3732, 5456), (3549, 5462), (3362, 5429), (3249, 5401), (3206, 5387)]
+
+Experiment process started… ((2, 7) rounds)
+Starting experiment 'poseidon' over F_65519 with (2, 7) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 0.00024300000000000016)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 6.300000000000056e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.700000000000098e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.4000000000000583e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.1000000000000185e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.0999999999999318e-05)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.799999999999984e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.799999999999984e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 2.000000000000092e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8000000000000654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.799999999999892e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8999999999998185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.799999999999892e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Process Process-13:
+Traceback (most recent call last):
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mcs001/20205040/new_model_t3/last_squeeze_attack.sage.py", line 91, in __call__
+    cputimes = int(ps_res.stdout)
+ValueError: invalid literal for int() with base 10: ''
+system in compute_gb: 
+ [-x0^3 + 19604*x0^2 + 27719*x0 + x1 - 20583, -4129*x1^3 - 1451*x1^2 - 5015*x1 + x2 + 3780, -24151*x1^3 - 6711*x1^2*x2 + 14850*x1*x2^2 - 4129*x2^3 - 5550*x1^2 - 4639*x1*x2 - 6993*x2^2 - 9299*x1 - 21482*x2 + x3 + 13809, 25267*x1^3 - 9954*x1^2*x2 - 22352*x1*x2^2 - 24151*x2^3 - 3133*x1^2*x3 - 24444*x1*x2*x3 - 6711*x2^2*x3 - 22922*x1*x3^2 + 14850*x2*x3^2 - 4129*x3^3 + 29425*x1^2 - 20307*x1*x2 + 11480*x2^2 - 13994*x1*x3 + 23998*x2*x3 + 1361*x3^2 - 3505*x1 - 23523*x2 + 6478*x3 + x4 - 27063, -7183*x1^3 - 24896*x1^2*x2 + 18337*x1*x2^2 + 25267*x2^3 + 15117*x1^2*x3 + 16149*x1*x2*x3 - 9954*x2^2*x3 - 24442*x1*x3^2 - 22352*x2*x3^2 - 24151*x3^3 - 10664*x1^2*x4 - 11366*x1*x2*x4 - 3133*x2^2*x4 + 25634*x1*x3*x4 - 24444*x2*x3*x4 - 6711*x3^2*x4 + 13756*x1*x4^2 - 22922*x2*x4^2 + 14850*x3*x4^2 - 4129*x4^3 + 26375*x1^2 + 3302*x1*x2 + 31704*x2^2 - 6421*x1*x3 + 2974*x2*x3 - 19817*x3^2 + 3225*x1*x4 + 23118*x2*x4 + 18580*x3*x4 - 13176*x4^2 - 20500*x1 + 31321*x2 - 4336*x3 - 4669*x4 + x5 - 17460, -22104*x1^3 + 26452*x1^2*x2 + 28796*x1*x2^2 - 7183*x2^3 - 23578*x1^2*x3 + 20763*x1*x2*x3 - 24896*x2^2*x3 - 12798*x1*x3^2 + 18337*x2*x3^2 + 25267*x3^3 + 13943*x1^2*x4 + 12028*x1*x2*x4 + 15117*x2^2*x4 - 29397*x1*x3*x4 + 16149*x2*x3*x4 - 9954*x3^2*x4 - 18275*x1*x4^2 - 24442*x2*x4^2 - 22352*x3*x4^2 - 24151*x4^3 + 18323*x1^2*x5 - 32561*x1*x2*x5 - 10664*x2^2*x5 - 31428*x1*x3*x5 - 11366*x2*x3*x5 - 3133*x3^2*x5 - 7897*x1*x4*x5 + 25634*x2*x4*x5 - 24444*x3*x4*x5 - 6711*x4^2*x5 + 9733*x1*x5^2 + 13756*x2*x5^2 - 22922*x3*x5^2 + 14850*x4*x5^2 - 4129*x5^3 + 16777*x1^2 + 16296*x1*x2 + 7800*x2^2 - 14466*x1*x3 - 16164*x2*x3 - 5032*x3^2 - 3022*x1*x4 - 9165*x2*x4 + 32428*x3*x4 - 15735*x4^2 + 10436*x1*x5 - 22335*x2*x5 - 9869*x3*x5 + 837*x4*x5 - 26378*x5^2 + 19088*x1 + 132*x2 - 24530*x3 + 29406*x4 + 567*x5 + x6 - 3628, -19497*x1^3 - 23326*x1^2*x2 + 7761*x1*x2^2 - 22104*x2^3 + 17715*x1^2*x3 - 27984*x1*x2*x3 + 26452*x2^2*x3 - 4710*x1*x3^2 + 28796*x2*x3^2 - 7183*x3^3 + 16672*x1^2*x4 + 24359*x1*x2*x4 - 23578*x2^2*x4 - 18463*x1*x3*x4 + 20763*x2*x3*x4 - 24896*x3^2*x4 - 26193*x1*x4^2 - 12798*x2*x4^2 + 18337*x3*x4^2 + 25267*x4^3 + 18257*x1^2*x5 - 9767*x1*x2*x5 + 13943*x2^2*x5 + 21914*x1*x3*x5 + 12028*x2*x3*x5 + 15117*x3^2*x5 + 11666*x1*x4*x5 - 29397*x2*x4*x5 + 16149*x3*x4*x5 - 9954*x4^2*x5 - 21998*x1*x5^2 - 18275*x2*x5^2 - 24442*x3*x5^2 - 22352*x4*x5^2 - 24151*x5^3 - 32608*x1^2*x6 + 10834*x1*x2*x6 + 18323*x2^2*x6 + 7187*x1*x3*x6 - 32561*x2*x3*x6 - 10664*x3^2*x6 + 29395*x1*x4*x6 - 31428*x2*x4*x6 - 11366*x3*x4*x6 - 3133*x4^2*x6 - 27973*x1*x5*x6 - 7897*x2*x5*x6 + 25634*x3*x5*x6 - 24444*x4*x5*x6 - 6711*x5^2*x6 + 32560*x1*x6^2 + 9733*x2*x6^2 + 13756*x3*x6^2 - 22922*x4*x6^2 + 14850*x5*x6^2 - 4129*x6^3 - 25377*x1^2 - 16544*x1*x2 - 9910*x2^2 - 29057*x1*x3 - 26114*x2*x3 - 2850*x3^2 - 27398*x1*x4 - 17394*x2*x4 + 10946*x3*x4 - 23361*x4^2 + 16252*x1*x5 + 13704*x2*x5 - 13031*x3*x5 + 8311*x4*x5 + 27169*x5^2 + 28561*x1*x6 - 13893*x2*x6 - 659*x3*x6 + 2346*x4*x6 + 11034*x5*x6 + 17198*x6^2 - 1584*x1 - 24202*x2 + 15622*x3 + 23427*x4 - 4264*x5 + 10519*x6 + x7 - 14091, 25836*x1^3 + 28191*x1^2*x2 + 18995*x1*x2^2 - 19497*x2^3 - 11770*x1^2*x3 + 15763*x1*x2*x3 - 23326*x2^2*x3 - 26541*x1*x3^2 + 7761*x2*x3^2 - 22104*x3^3 - 15706*x1^2*x4 + 4379*x1*x2*x4 + 17715*x2^2*x4 + 1967*x1*x3*x4 - 27984*x2*x3*x4 + 26452*x3^2*x4 + 29986*x1*x4^2 - 4710*x2*x4^2 + 28796*x3*x4^2 - 7183*x4^3 - 7817*x1^2*x5 + 27063*x1*x2*x5 + 16672*x2^2*x5 + 16660*x1*x3*x5 + 24359*x2*x3*x5 - 23578*x3^2*x5 + 15273*x1*x4*x5 - 18463*x2*x4*x5 + 20763*x3*x4*x5 - 24896*x4^2*x5 + 5922*x1*x5^2 - 26193*x2*x5^2 - 12798*x3*x5^2 + 18337*x4*x5^2 + 25267*x5^3 + 27245*x1^2*x6 + 19540*x1*x2*x6 + 18257*x2^2*x6 + 24233*x1*x3*x6 - 9767*x2*x3*x6 + 13943*x3^2*x6 - 5750*x1*x4*x6 + 21914*x2*x4*x6 + 12028*x3*x4*x6 + 15117*x4^2*x6 - 1602*x1*x5*x6 + 11666*x2*x5*x6 - 29397*x3*x5*x6 + 16149*x4*x5*x6 - 9954*x5^2*x6 + 5784*x1*x6^2 - 21998*x2*x6^2 - 18275*x3*x6^2 - 24442*x4*x6^2 - 22352*x5*x6^2 - 24151*x6^3 + 6989*x1^2*x7 + 23277*x1*x2*x7 - 32608*x2^2*x7 - 16865*x1*x3*x7 + 10834*x2*x3*x7 + 18323*x3^2*x7 - 4469*x1*x4*x7 + 7187*x2*x4*x7 - 32561*x3*x4*x7 - 10664*x4^2*x7 - 10338*x1*x5*x7 + 29395*x2*x5*x7 - 31428*x3*x5*x7 - 11366*x4*x5*x7 - 3133*x5^2*x7 - 27677*x1*x6*x7 - 27973*x2*x6*x7 - 7897*x3*x6*x7 + 25634*x4*x6*x7 - 24444*x5*x6*x7 - 6711*x6^2*x7 - 16299*x1*x7^2 + 32560*x2*x7^2 + 9733*x3*x7^2 + 13756*x4*x7^2 - 22922*x5*x7^2 + 14850*x6*x7^2 - 4129*x7^3 - 26267*x1^2 + 6460*x1*x2 - 7980*x2^2 + 24911*x1*x3 - 7588*x2*x3 - 31000*x3^2 - 11759*x1*x4 - 13343*x2*x4 - 22781*x3*x4 - 11097*x4^2 - 31512*x1*x5 + 772*x2*x5 - 14346*x3*x5 - 3312*x4*x5 - 19855*x5^2 - 31584*x1*x6 + 8658*x2*x6 + 2737*x3*x6 + 11401*x4*x6 - 11158*x5*x6 + 26544*x6^2 - 1371*x1*x7 - 8175*x2*x7 - 15956*x3*x7 + 20814*x4*x7 - 2314*x5*x7 - 26970*x6*x7 - 16349*x7^2 + 8862*x1 + 1230*x2 + 21275*x3 + 18147*x4 + 1911*x5 + 31107*x6 - 971*x7 + x8 + 28509, -6313*x1^3 - 4444*x1^2*x2 + 30502*x1*x2^2 + 29201*x2^3 + 30296*x1^2*x3 + 19115*x1*x2*x3 - 2818*x2^2*x3 - 149*x1*x3^2 + 24875*x2*x3^2 - 29980*x3^3 - 8250*x1^2*x4 + 8139*x1*x2*x4 - 11135*x2^2*x4 + 28702*x1*x3*x4 + 5007*x2*x3*x4 + 24866*x3^2*x4 + 21229*x1*x4^2 + 28702*x2*x4^2 - 17396*x3*x4^2 - 27679*x4^3 + 9973*x1^2*x5 - 7364*x1*x2*x5 + 211*x2^2*x5 - 15976*x1*x3*x5 + 20851*x2*x3*x5 - 11292*x3^2*x5 + 548*x1*x4*x5 + 28559*x2*x4*x5 - 22940*x3*x4*x5 - 17906*x4^2*x5 - 4085*x1*x5^2 - 3085*x2*x5^2 + 28150*x3*x5^2 + 26970*x4*x5^2 + 31241*x5^3 - 27387*x1^2*x6 - 27968*x1*x2*x6 + 13807*x2^2*x6 - 361*x1*x3*x6 + 13200*x2*x3*x6 - 21325*x3^2*x6 + 29782*x1*x4*x6 + 27543*x2*x4*x6 + 4768*x3*x4*x6 - 14188*x4^2*x6 + 19003*x1*x5*x6 - 14521*x2*x5*x6 + 30165*x3*x5*x6 + 27556*x4*x5*x6 + 4164*x5^2*x6 + 24155*x1*x6^2 - 11975*x2*x6^2 + 2398*x3*x6^2 - 9467*x4*x6^2 + 13310*x5*x6^2 - 13199*x6^3 - 13177*x1^2*x7 - 2417*x1*x2*x7 + 26783*x2^2*x7 + 19005*x1*x3*x7 - 23009*x2*x3*x7 + 6203*x3^2*x7 + 21874*x1*x4*x7 + 32043*x2*x4*x7 + 32088*x3*x4*x7 - 15925*x4^2*x7 + 15368*x1*x5*x7 - 5230*x2*x5*x7 - 25758*x3*x5*x7 - 11940*x4*x5*x7 - 29999*x5^2*x7 - 29812*x1*x6*x7 - 13311*x2*x6*x7 + 26784*x3*x6*x7 + 23256*x4*x6*x7 - 225*x5*x6*x7 + 28737*x6^2*x7 - 1139*x1*x7^2 + 32751*x2*x7^2 - 18732*x3*x7^2 - 18127*x4*x7^2 + 23110*x5*x7^2 + 4286*x6*x7^2 + 25323*x7^3 - 24887*x1^2*x8 - 20917*x1*x2*x8 - 26576*x2^2*x8 - 7094*x1*x3*x8 - 17657*x2*x3*x8 - 14356*x3^2*x8 + 27878*x1*x4*x8 + 4211*x2*x4*x8 - 20685*x3*x4*x8 + 7494*x4^2*x8 + 21070*x1*x5*x8 - 19194*x2*x5*x8 + 3768*x3*x5*x8 - 19310*x4*x5*x8 - 29688*x5^2*x8 + 17046*x1*x6*x8 + 23175*x2*x6*x8 - 2612*x3*x6*x8 - 7721*x4*x6*x8 + 8213*x5*x6*x8 - 10480*x6^2*x8 - 7771*x1*x7*x8 - 10037*x2*x7*x8 - 8687*x3*x7*x8 - 16632*x4*x7*x8 + 5962*x5*x7*x8 - 6821*x6*x7*x8 - 19484*x7^2*x8 - 20899*x1*x8^2 - 20377*x2*x8^2 + 25796*x3*x8^2 - 25241*x4*x8^2 - 16185*x5*x8^2 + 20321*x6*x8^2 - 5093*x7*x8^2 - 31659*x8^3 - 12805*x1^2 - 20628*x1*x2 + 17550*x2^2 + 27214*x1*x3 - 3904*x2*x3 + 25146*x3^2 - 19917*x1*x4 + 16816*x2*x4 + 16402*x3*x4 - 6419*x4^2 + 27489*x1*x5 - 23192*x2*x5 - 22576*x3*x5 + 4071*x4*x5 + 9126*x5^2 - 29929*x1*x6 - 18661*x2*x6 + 16251*x3*x6 - 28187*x4*x6 - 16427*x5*x6 + 8657*x6^2 + 10960*x1*x7 + 27150*x2*x7 - 19145*x3*x7 - 10136*x4*x7 - 26731*x5*x7 - 5843*x6*x7 + 6492*x7^2 + 22084*x1*x8 + 32048*x2*x8 + 3266*x3*x8 - 29862*x4*x8 + 30549*x5*x8 + 31412*x6*x8 + 7931*x7*x8 - 12524*x8^2 + 22690*x1 + 26348*x2 + 17517*x3 - 7344*x4 - 18984*x5 - 23707*x6 + 12035*x7 + 5504*x8 - 2382]
+Starting Gröbner basis computation…
+Finished computing Gröbner basis.
+gb:
+ Polynomial Sequence with 1517 Polynomials in 9 Variables
+Memory measuring process started… ((2, 7) rounds)
+[(8, 165), (70, 493), (291, 1212), (959, 2603), (2263, 4853), (4202, 7701), (6552, 10738), (9317, 14000), (10707, 15501), (12271, 16953), (12521, 17525), (12074, 17624), (11499, 17555), (11103, 17475), (10914, 17427), (10853, 17407)]
+
+Experiment process started… ((2, 8) rounds)
+Starting experiment 'poseidon' over F_65519 with (2, 8) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 0.0002570000000000003)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 6.400000000000069e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.499999999999985e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.199999999999945e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.2999999999999583e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.199999999999945e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.000000000000092e-05)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 4.0000000000000105e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.300000000000004e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.9999999999999185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.9000000000001654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8000000000000654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8999999999998185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 2.2999999999998716e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8999999999998185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Process Process-15:
+Traceback (most recent call last):
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mcs001/20205040/new_model_t3/last_squeeze_attack.sage.py", line 91, in __call__
+    cputimes = int(ps_res.stdout)
+ValueError: invalid literal for int() with base 10: ''
+system in compute_gb: 
+ [-x0^3 + 19604*x0^2 + 27719*x0 + x1 - 20583, -4129*x1^3 - 1451*x1^2 - 5015*x1 + x2 + 3780, -24151*x1^3 - 6711*x1^2*x2 + 14850*x1*x2^2 - 4129*x2^3 - 5550*x1^2 - 4639*x1*x2 - 6993*x2^2 - 9299*x1 - 21482*x2 + x3 + 13809, 25267*x1^3 - 9954*x1^2*x2 - 22352*x1*x2^2 - 24151*x2^3 - 3133*x1^2*x3 - 24444*x1*x2*x3 - 6711*x2^2*x3 - 22922*x1*x3^2 + 14850*x2*x3^2 - 4129*x3^3 + 29425*x1^2 - 20307*x1*x2 + 11480*x2^2 - 13994*x1*x3 + 23998*x2*x3 + 1361*x3^2 - 3505*x1 - 23523*x2 + 6478*x3 + x4 - 27063, -7183*x1^3 - 24896*x1^2*x2 + 18337*x1*x2^2 + 25267*x2^3 + 15117*x1^2*x3 + 16149*x1*x2*x3 - 9954*x2^2*x3 - 24442*x1*x3^2 - 22352*x2*x3^2 - 24151*x3^3 - 10664*x1^2*x4 - 11366*x1*x2*x4 - 3133*x2^2*x4 + 25634*x1*x3*x4 - 24444*x2*x3*x4 - 6711*x3^2*x4 + 13756*x1*x4^2 - 22922*x2*x4^2 + 14850*x3*x4^2 - 4129*x4^3 + 26375*x1^2 + 3302*x1*x2 + 31704*x2^2 - 6421*x1*x3 + 2974*x2*x3 - 19817*x3^2 + 3225*x1*x4 + 23118*x2*x4 + 18580*x3*x4 - 13176*x4^2 - 20500*x1 + 31321*x2 - 4336*x3 - 4669*x4 + x5 - 17460, -22104*x1^3 + 26452*x1^2*x2 + 28796*x1*x2^2 - 7183*x2^3 - 23578*x1^2*x3 + 20763*x1*x2*x3 - 24896*x2^2*x3 - 12798*x1*x3^2 + 18337*x2*x3^2 + 25267*x3^3 + 13943*x1^2*x4 + 12028*x1*x2*x4 + 15117*x2^2*x4 - 29397*x1*x3*x4 + 16149*x2*x3*x4 - 9954*x3^2*x4 - 18275*x1*x4^2 - 24442*x2*x4^2 - 22352*x3*x4^2 - 24151*x4^3 + 18323*x1^2*x5 - 32561*x1*x2*x5 - 10664*x2^2*x5 - 31428*x1*x3*x5 - 11366*x2*x3*x5 - 3133*x3^2*x5 - 7897*x1*x4*x5 + 25634*x2*x4*x5 - 24444*x3*x4*x5 - 6711*x4^2*x5 + 9733*x1*x5^2 + 13756*x2*x5^2 - 22922*x3*x5^2 + 14850*x4*x5^2 - 4129*x5^3 + 16777*x1^2 + 16296*x1*x2 + 7800*x2^2 - 14466*x1*x3 - 16164*x2*x3 - 5032*x3^2 - 3022*x1*x4 - 9165*x2*x4 + 32428*x3*x4 - 15735*x4^2 + 10436*x1*x5 - 22335*x2*x5 - 9869*x3*x5 + 837*x4*x5 - 26378*x5^2 + 19088*x1 + 132*x2 - 24530*x3 + 29406*x4 + 567*x5 + x6 - 3628, -19497*x1^3 - 23326*x1^2*x2 + 7761*x1*x2^2 - 22104*x2^3 + 17715*x1^2*x3 - 27984*x1*x2*x3 + 26452*x2^2*x3 - 4710*x1*x3^2 + 28796*x2*x3^2 - 7183*x3^3 + 16672*x1^2*x4 + 24359*x1*x2*x4 - 23578*x2^2*x4 - 18463*x1*x3*x4 + 20763*x2*x3*x4 - 24896*x3^2*x4 - 26193*x1*x4^2 - 12798*x2*x4^2 + 18337*x3*x4^2 + 25267*x4^3 + 18257*x1^2*x5 - 9767*x1*x2*x5 + 13943*x2^2*x5 + 21914*x1*x3*x5 + 12028*x2*x3*x5 + 15117*x3^2*x5 + 11666*x1*x4*x5 - 29397*x2*x4*x5 + 16149*x3*x4*x5 - 9954*x4^2*x5 - 21998*x1*x5^2 - 18275*x2*x5^2 - 24442*x3*x5^2 - 22352*x4*x5^2 - 24151*x5^3 - 32608*x1^2*x6 + 10834*x1*x2*x6 + 18323*x2^2*x6 + 7187*x1*x3*x6 - 32561*x2*x3*x6 - 10664*x3^2*x6 + 29395*x1*x4*x6 - 31428*x2*x4*x6 - 11366*x3*x4*x6 - 3133*x4^2*x6 - 27973*x1*x5*x6 - 7897*x2*x5*x6 + 25634*x3*x5*x6 - 24444*x4*x5*x6 - 6711*x5^2*x6 + 32560*x1*x6^2 + 9733*x2*x6^2 + 13756*x3*x6^2 - 22922*x4*x6^2 + 14850*x5*x6^2 - 4129*x6^3 - 25377*x1^2 - 16544*x1*x2 - 9910*x2^2 - 29057*x1*x3 - 26114*x2*x3 - 2850*x3^2 - 27398*x1*x4 - 17394*x2*x4 + 10946*x3*x4 - 23361*x4^2 + 16252*x1*x5 + 13704*x2*x5 - 13031*x3*x5 + 8311*x4*x5 + 27169*x5^2 + 28561*x1*x6 - 13893*x2*x6 - 659*x3*x6 + 2346*x4*x6 + 11034*x5*x6 + 17198*x6^2 - 1584*x1 - 24202*x2 + 15622*x3 + 23427*x4 - 4264*x5 + 10519*x6 + x7 - 14091, 25836*x1^3 + 28191*x1^2*x2 + 18995*x1*x2^2 - 19497*x2^3 - 11770*x1^2*x3 + 15763*x1*x2*x3 - 23326*x2^2*x3 - 26541*x1*x3^2 + 7761*x2*x3^2 - 22104*x3^3 - 15706*x1^2*x4 + 4379*x1*x2*x4 + 17715*x2^2*x4 + 1967*x1*x3*x4 - 27984*x2*x3*x4 + 26452*x3^2*x4 + 29986*x1*x4^2 - 4710*x2*x4^2 + 28796*x3*x4^2 - 7183*x4^3 - 7817*x1^2*x5 + 27063*x1*x2*x5 + 16672*x2^2*x5 + 16660*x1*x3*x5 + 24359*x2*x3*x5 - 23578*x3^2*x5 + 15273*x1*x4*x5 - 18463*x2*x4*x5 + 20763*x3*x4*x5 - 24896*x4^2*x5 + 5922*x1*x5^2 - 26193*x2*x5^2 - 12798*x3*x5^2 + 18337*x4*x5^2 + 25267*x5^3 + 27245*x1^2*x6 + 19540*x1*x2*x6 + 18257*x2^2*x6 + 24233*x1*x3*x6 - 9767*x2*x3*x6 + 13943*x3^2*x6 - 5750*x1*x4*x6 + 21914*x2*x4*x6 + 12028*x3*x4*x6 + 15117*x4^2*x6 - 1602*x1*x5*x6 + 11666*x2*x5*x6 - 29397*x3*x5*x6 + 16149*x4*x5*x6 - 9954*x5^2*x6 + 5784*x1*x6^2 - 21998*x2*x6^2 - 18275*x3*x6^2 - 24442*x4*x6^2 - 22352*x5*x6^2 - 24151*x6^3 + 6989*x1^2*x7 + 23277*x1*x2*x7 - 32608*x2^2*x7 - 16865*x1*x3*x7 + 10834*x2*x3*x7 + 18323*x3^2*x7 - 4469*x1*x4*x7 + 7187*x2*x4*x7 - 32561*x3*x4*x7 - 10664*x4^2*x7 - 10338*x1*x5*x7 + 29395*x2*x5*x7 - 31428*x3*x5*x7 - 11366*x4*x5*x7 - 3133*x5^2*x7 - 27677*x1*x6*x7 - 27973*x2*x6*x7 - 7897*x3*x6*x7 + 25634*x4*x6*x7 - 24444*x5*x6*x7 - 6711*x6^2*x7 - 16299*x1*x7^2 + 32560*x2*x7^2 + 9733*x3*x7^2 + 13756*x4*x7^2 - 22922*x5*x7^2 + 14850*x6*x7^2 - 4129*x7^3 - 26267*x1^2 + 6460*x1*x2 - 7980*x2^2 + 24911*x1*x3 - 7588*x2*x3 - 31000*x3^2 - 11759*x1*x4 - 13343*x2*x4 - 22781*x3*x4 - 11097*x4^2 - 31512*x1*x5 + 772*x2*x5 - 14346*x3*x5 - 3312*x4*x5 - 19855*x5^2 - 31584*x1*x6 + 8658*x2*x6 + 2737*x3*x6 + 11401*x4*x6 - 11158*x5*x6 + 26544*x6^2 - 1371*x1*x7 - 8175*x2*x7 - 15956*x3*x7 + 20814*x4*x7 - 2314*x5*x7 - 26970*x6*x7 - 16349*x7^2 + 8862*x1 + 1230*x2 + 21275*x3 + 18147*x4 + 1911*x5 + 31107*x6 - 971*x7 + x8 + 28509, -23434*x1^3 - 12353*x1^2*x2 + 8917*x1*x2^2 + 25836*x2^3 + 18957*x1^2*x3 - 13228*x1*x2*x3 + 28191*x2^2*x3 - 14492*x1*x3^2 + 18995*x2*x3^2 - 19497*x3^3 - 29264*x1^2*x4 + 14631*x1*x2*x4 - 11770*x2^2*x4 - 24585*x1*x3*x4 + 15763*x2*x3*x4 - 23326*x3^2*x4 - 30845*x1*x4^2 - 26541*x2*x4^2 + 7761*x3*x4^2 - 22104*x4^3 - 15470*x1^2*x5 + 1076*x1*x2*x5 - 15706*x2^2*x5 + 20466*x1*x3*x5 + 4379*x2*x3*x5 + 17715*x3^2*x5 + 10420*x1*x4*x5 + 1967*x2*x4*x5 - 27984*x3*x4*x5 + 26452*x4^2*x5 - 31680*x1*x5^2 + 29986*x2*x5^2 - 4710*x3*x5^2 + 28796*x4*x5^2 - 7183*x5^3 - 29834*x1^2*x6 + 18440*x1*x2*x6 - 7817*x2^2*x6 - 3163*x1*x3*x6 + 27063*x2*x3*x6 + 16672*x3^2*x6 + 7347*x1*x4*x6 + 16660*x2*x4*x6 + 24359*x3*x4*x6 - 23578*x4^2*x6 - 19020*x1*x5*x6 + 15273*x2*x5*x6 - 18463*x3*x5*x6 + 20763*x4*x5*x6 - 24896*x5^2*x6 - 1738*x1*x6^2 + 5922*x2*x6^2 - 26193*x3*x6^2 - 12798*x4*x6^2 + 18337*x5*x6^2 + 25267*x6^3 - 15481*x1^2*x7 - 10460*x1*x2*x7 + 27245*x2^2*x7 + 2718*x1*x3*x7 + 19540*x2*x3*x7 + 18257*x3^2*x7 + 10258*x1*x4*x7 + 24233*x2*x4*x7 - 9767*x3*x4*x7 + 13943*x4^2*x7 - 28295*x1*x5*x7 - 5750*x2*x5*x7 + 21914*x3*x5*x7 + 12028*x4*x5*x7 + 15117*x5^2*x7 + 27554*x1*x6*x7 - 1602*x2*x6*x7 + 11666*x3*x6*x7 - 29397*x4*x6*x7 + 16149*x5*x6*x7 - 9954*x6^2*x7 + 18549*x1*x7^2 + 5784*x2*x7^2 - 21998*x3*x7^2 - 18275*x4*x7^2 - 24442*x5*x7^2 - 22352*x6*x7^2 - 24151*x7^3 + 13959*x1^2*x8 + 28447*x1*x2*x8 + 6989*x2^2*x8 - 16324*x1*x3*x8 + 23277*x2*x3*x8 - 32608*x3^2*x8 + 9021*x1*x4*x8 - 16865*x2*x4*x8 + 10834*x3*x4*x8 + 18323*x4^2*x8 - 10084*x1*x5*x8 - 4469*x2*x5*x8 + 7187*x3*x5*x8 - 32561*x4*x5*x8 - 10664*x5^2*x8 - 4268*x1*x6*x8 - 10338*x2*x6*x8 + 29395*x3*x6*x8 - 31428*x4*x6*x8 - 11366*x5*x6*x8 - 3133*x6^2*x8 + 28856*x1*x7*x8 - 27677*x2*x7*x8 - 27973*x3*x7*x8 - 7897*x4*x7*x8 + 25634*x5*x7*x8 - 24444*x6*x7*x8 - 6711*x7^2*x8 - 6767*x1*x8^2 - 16299*x2*x8^2 + 32560*x3*x8^2 + 9733*x4*x8^2 + 13756*x5*x8^2 - 22922*x6*x8^2 + 14850*x7*x8^2 - 4129*x8^3 + 22077*x1^2 + 24545*x1*x2 + 20347*x2^2 - 22100*x1*x3 - 27311*x2*x3 + 26029*x3^2 - 2461*x1*x4 - 3904*x2*x4 - 1917*x3*x4 + 11786*x4^2 - 8049*x1*x5 + 14307*x2*x5 + 10902*x3*x5 - 17576*x4*x5 - 10825*x5^2 + 21595*x1*x6 - 5198*x2*x6 + 5134*x3*x6 - 31583*x4*x6 + 4793*x5*x6 - 24936*x6^2 - 9194*x1*x7 - 32156*x2*x7 - 1491*x3*x7 + 3774*x4*x7 - 28230*x5*x7 + 4555*x6*x7 - 20372*x7^2 + 11587*x1*x8 - 5553*x2*x8 + 2157*x3*x8 + 31716*x4*x8 + 29107*x5*x8 - 25573*x6*x8 + 24668*x7*x8 + 31988*x8^2 + 2425*x1 + 8852*x2 + 20525*x3 - 12*x4 - 14389*x5 - 23243*x6 - 21849*x7 + 32004*x8 + x9 + 11296, -6231*x1^3 - 16275*x1^2*x2 - 6570*x1*x2^2 - 6313*x2^3 + 21637*x1^2*x3 + 28593*x1*x2*x3 - 4444*x2^2*x3 - 15574*x1*x3^2 + 30502*x2*x3^2 + 29201*x3^3 + 8546*x1^2*x4 + 2799*x1*x2*x4 + 30296*x2^2*x4 + 20905*x1*x3*x4 + 19115*x2*x3*x4 - 2818*x3^2*x4 - 26237*x1*x4^2 - 149*x2*x4^2 + 24875*x3*x4^2 - 29980*x4^3 - 19927*x1^2*x5 + 4685*x1*x2*x5 - 8250*x2^2*x5 + 2483*x1*x3*x5 + 8139*x2*x3*x5 - 11135*x3^2*x5 + 30376*x1*x4*x5 + 28702*x2*x4*x5 + 5007*x3*x4*x5 + 24866*x4^2*x5 + 14520*x1*x5^2 + 21229*x2*x5^2 + 28702*x3*x5^2 - 17396*x4*x5^2 - 27679*x5^3 - 396*x1^2*x6 + 25622*x1*x2*x6 + 9973*x2^2*x6 - 28674*x1*x3*x6 - 7364*x2*x3*x6 + 211*x3^2*x6 - 525*x1*x4*x6 - 15976*x2*x4*x6 + 20851*x3*x4*x6 - 11292*x4^2*x6 - 20162*x1*x5*x6 + 548*x2*x5*x6 + 28559*x3*x5*x6 - 22940*x4*x5*x6 - 17906*x5^2*x6 + 15082*x1*x6^2 - 4085*x2*x6^2 - 3085*x3*x6^2 + 28150*x4*x6^2 + 26970*x5*x6^2 + 31241*x6^3 + 22853*x1^2*x7 + 950*x1*x2*x7 - 27387*x2^2*x7 + 32131*x1*x3*x7 - 27968*x2*x3*x7 + 13807*x3^2*x7 - 20484*x1*x4*x7 - 361*x2*x4*x7 + 13200*x3*x4*x7 - 21325*x4^2*x7 + 289*x1*x5*x7 + 29782*x2*x5*x7 + 27543*x3*x5*x7 + 4768*x4*x5*x7 - 14188*x5^2*x7 - 30162*x1*x6*x7 + 19003*x2*x6*x7 - 14521*x3*x6*x7 + 30165*x4*x6*x7 + 27556*x5*x6*x7 + 4164*x6^2*x7 - 26027*x1*x7^2 + 24155*x2*x7^2 - 11975*x3*x7^2 + 2398*x4*x7^2 - 9467*x5*x7^2 + 13310*x6*x7^2 - 13199*x7^3 - 12324*x1^2*x8 - 26113*x1*x2*x8 - 13177*x2^2*x8 - 2472*x1*x3*x8 - 2417*x2*x3*x8 + 26783*x3^2*x8 - 9439*x1*x4*x8 + 19005*x2*x4*x8 - 23009*x3*x4*x8 + 6203*x4^2*x8 + 12372*x1*x5*x8 + 21874*x2*x5*x8 + 32043*x3*x5*x8 + 32088*x4*x5*x8 - 15925*x5^2*x8 - 17377*x1*x6*x8 + 15368*x2*x6*x8 - 5230*x3*x6*x8 - 25758*x4*x6*x8 - 11940*x5*x6*x8 - 29999*x6^2*x8 + 29949*x1*x7*x8 - 29812*x2*x7*x8 - 13311*x3*x7*x8 + 26784*x4*x7*x8 + 23256*x5*x7*x8 - 225*x6*x7*x8 + 28737*x7^2*x8 - 8262*x1*x8^2 - 1139*x2*x8^2 + 32751*x3*x8^2 - 18732*x4*x8^2 - 18127*x5*x8^2 + 23110*x6*x8^2 + 4286*x7*x8^2 + 25323*x8^3 + 27571*x1^2*x9 + 17898*x1*x2*x9 - 24887*x2^2*x9 - 17528*x1*x3*x9 - 20917*x2*x3*x9 - 26576*x3^2*x9 - 14179*x1*x4*x9 - 7094*x2*x4*x9 - 17657*x3*x4*x9 - 14356*x4^2*x9 + 23922*x1*x5*x9 + 27878*x2*x5*x9 + 4211*x3*x5*x9 - 20685*x4*x5*x9 + 7494*x5^2*x9 + 21744*x1*x6*x9 + 21070*x2*x6*x9 - 19194*x3*x6*x9 + 3768*x4*x6*x9 - 19310*x5*x6*x9 - 29688*x6^2*x9 - 28284*x1*x7*x9 + 17046*x2*x7*x9 + 23175*x3*x7*x9 - 2612*x4*x7*x9 - 7721*x5*x7*x9 + 8213*x6*x7*x9 - 10480*x7^2*x9 - 22054*x1*x8*x9 - 7771*x2*x8*x9 - 10037*x3*x8*x9 - 8687*x4*x8*x9 - 16632*x5*x8*x9 + 5962*x6*x8*x9 - 6821*x7*x8*x9 - 19484*x8^2*x9 + 22390*x1*x9^2 - 20899*x2*x9^2 - 20377*x3*x9^2 + 25796*x4*x9^2 - 25241*x5*x9^2 - 16185*x6*x9^2 + 20321*x7*x9^2 - 5093*x8*x9^2 - 31659*x9^3 + 17239*x1^2 - 15316*x1*x2 - 1296*x2^2 + 8314*x1*x3 + 26520*x2*x3 + 7667*x3^2 + 3352*x1*x4 - 948*x2*x4 + 24224*x3*x4 - 6228*x4^2 - 18018*x1*x5 - 7043*x2*x5 - 32388*x3*x5 - 27909*x4*x5 + 22541*x5^2 - 27453*x1*x6 + 30608*x2*x6 + 7921*x3*x6 - 32733*x4*x6 + 5233*x5*x6 + 19360*x6^2 + 5695*x1*x7 + 14001*x2*x7 + 22591*x3*x7 - 11925*x4*x7 - 27534*x5*x7 + 13738*x6*x7 + 24342*x7^2 - 20907*x1*x8 - 10949*x2*x8 - 16208*x3*x8 + 15694*x4*x8 + 24467*x5*x8 - 22298*x6*x8 - 7816*x7*x8 - 31328*x8^2 + 25646*x1*x9 + 15637*x2*x9 - 19165*x3*x9 - 21971*x4*x9 - 11604*x5*x9 + 28628*x6*x9 + 7541*x7*x9 + 28090*x8*x9 - 13191*x9^2 + 13143*x1 + 21016*x2 - 5823*x3 - 22266*x4 - 11172*x5 - 10518*x6 + 16214*x7 + 15144*x8 - 25531*x9 + 12712]
+Starting Gröbner basis computation…
+Finished computing Gröbner basis.
+gb:
+ Polynomial Sequence with 4180 Polynomials in 10 Variables
+Memory measuring process started… ((2, 8) rounds)
+[(9, 220), (88, 713), (416, 1911), (1504, 4466), (3820, 8979), (8756, 16545), (16525, 26906), (22647, 34832), (30768, 44513), (35500, 49602), (40862, 54592), (42129, 56693), (41009, 57151), (39327, 57047), (38000, 56830), (37273, 56676), (36981, 56601), (36899, 56574)]
+
+Experiment process started… ((2, 9) rounds)
+Starting experiment 'poseidon' over F_65519 with (2, 9) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 0.00026299999999999935)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 5.299999999999923e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.499999999999985e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.300000000000045e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.199999999999945e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.1000000000000185e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.1000000000000185e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.1000000000000185e-05)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.900000000000084e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 3.199999999999904e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 2.000000000000092e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.899999999999992e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 2.1000000000000185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8999999999998185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.899999999999992e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.899999999999992e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8999999999998185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+Process Process-17:
+Traceback (most recent call last):
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/mcs001/20205040/mambaforge/envs/sage/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mcs001/20205040/new_model_t3/last_squeeze_attack.sage.py", line 91, in __call__
+    cputimes = int(ps_res.stdout)
+ValueError: invalid literal for int() with base 10: ''
+system in compute_gb: 
+ [-x0^3 + 19604*x0^2 + 27719*x0 + x1 - 20583, -4129*x1^3 - 1451*x1^2 - 5015*x1 + x2 + 3780, -24151*x1^3 - 6711*x1^2*x2 + 14850*x1*x2^2 - 4129*x2^3 - 5550*x1^2 - 4639*x1*x2 - 6993*x2^2 - 9299*x1 - 21482*x2 + x3 + 13809, 25267*x1^3 - 9954*x1^2*x2 - 22352*x1*x2^2 - 24151*x2^3 - 3133*x1^2*x3 - 24444*x1*x2*x3 - 6711*x2^2*x3 - 22922*x1*x3^2 + 14850*x2*x3^2 - 4129*x3^3 + 29425*x1^2 - 20307*x1*x2 + 11480*x2^2 - 13994*x1*x3 + 23998*x2*x3 + 1361*x3^2 - 3505*x1 - 23523*x2 + 6478*x3 + x4 - 27063, -7183*x1^3 - 24896*x1^2*x2 + 18337*x1*x2^2 + 25267*x2^3 + 15117*x1^2*x3 + 16149*x1*x2*x3 - 9954*x2^2*x3 - 24442*x1*x3^2 - 22352*x2*x3^2 - 24151*x3^3 - 10664*x1^2*x4 - 11366*x1*x2*x4 - 3133*x2^2*x4 + 25634*x1*x3*x4 - 24444*x2*x3*x4 - 6711*x3^2*x4 + 13756*x1*x4^2 - 22922*x2*x4^2 + 14850*x3*x4^2 - 4129*x4^3 + 26375*x1^2 + 3302*x1*x2 + 31704*x2^2 - 6421*x1*x3 + 2974*x2*x3 - 19817*x3^2 + 3225*x1*x4 + 23118*x2*x4 + 18580*x3*x4 - 13176*x4^2 - 20500*x1 + 31321*x2 - 4336*x3 - 4669*x4 + x5 - 17460, -22104*x1^3 + 26452*x1^2*x2 + 28796*x1*x2^2 - 7183*x2^3 - 23578*x1^2*x3 + 20763*x1*x2*x3 - 24896*x2^2*x3 - 12798*x1*x3^2 + 18337*x2*x3^2 + 25267*x3^3 + 13943*x1^2*x4 + 12028*x1*x2*x4 + 15117*x2^2*x4 - 29397*x1*x3*x4 + 16149*x2*x3*x4 - 9954*x3^2*x4 - 18275*x1*x4^2 - 24442*x2*x4^2 - 22352*x3*x4^2 - 24151*x4^3 + 18323*x1^2*x5 - 32561*x1*x2*x5 - 10664*x2^2*x5 - 31428*x1*x3*x5 - 11366*x2*x3*x5 - 3133*x3^2*x5 - 7897*x1*x4*x5 + 25634*x2*x4*x5 - 24444*x3*x4*x5 - 6711*x4^2*x5 + 9733*x1*x5^2 + 13756*x2*x5^2 - 22922*x3*x5^2 + 14850*x4*x5^2 - 4129*x5^3 + 16777*x1^2 + 16296*x1*x2 + 7800*x2^2 - 14466*x1*x3 - 16164*x2*x3 - 5032*x3^2 - 3022*x1*x4 - 9165*x2*x4 + 32428*x3*x4 - 15735*x4^2 + 10436*x1*x5 - 22335*x2*x5 - 9869*x3*x5 + 837*x4*x5 - 26378*x5^2 + 19088*x1 + 132*x2 - 24530*x3 + 29406*x4 + 567*x5 + x6 - 3628, -19497*x1^3 - 23326*x1^2*x2 + 7761*x1*x2^2 - 22104*x2^3 + 17715*x1^2*x3 - 27984*x1*x2*x3 + 26452*x2^2*x3 - 4710*x1*x3^2 + 28796*x2*x3^2 - 7183*x3^3 + 16672*x1^2*x4 + 24359*x1*x2*x4 - 23578*x2^2*x4 - 18463*x1*x3*x4 + 20763*x2*x3*x4 - 24896*x3^2*x4 - 26193*x1*x4^2 - 12798*x2*x4^2 + 18337*x3*x4^2 + 25267*x4^3 + 18257*x1^2*x5 - 9767*x1*x2*x5 + 13943*x2^2*x5 + 21914*x1*x3*x5 + 12028*x2*x3*x5 + 15117*x3^2*x5 + 11666*x1*x4*x5 - 29397*x2*x4*x5 + 16149*x3*x4*x5 - 9954*x4^2*x5 - 21998*x1*x5^2 - 18275*x2*x5^2 - 24442*x3*x5^2 - 22352*x4*x5^2 - 24151*x5^3 - 32608*x1^2*x6 + 10834*x1*x2*x6 + 18323*x2^2*x6 + 7187*x1*x3*x6 - 32561*x2*x3*x6 - 10664*x3^2*x6 + 29395*x1*x4*x6 - 31428*x2*x4*x6 - 11366*x3*x4*x6 - 3133*x4^2*x6 - 27973*x1*x5*x6 - 7897*x2*x5*x6 + 25634*x3*x5*x6 - 24444*x4*x5*x6 - 6711*x5^2*x6 + 32560*x1*x6^2 + 9733*x2*x6^2 + 13756*x3*x6^2 - 22922*x4*x6^2 + 14850*x5*x6^2 - 4129*x6^3 - 25377*x1^2 - 16544*x1*x2 - 9910*x2^2 - 29057*x1*x3 - 26114*x2*x3 - 2850*x3^2 - 27398*x1*x4 - 17394*x2*x4 + 10946*x3*x4 - 23361*x4^2 + 16252*x1*x5 + 13704*x2*x5 - 13031*x3*x5 + 8311*x4*x5 + 27169*x5^2 + 28561*x1*x6 - 13893*x2*x6 - 659*x3*x6 + 2346*x4*x6 + 11034*x5*x6 + 17198*x6^2 - 1584*x1 - 24202*x2 + 15622*x3 + 23427*x4 - 4264*x5 + 10519*x6 + x7 - 14091, 25836*x1^3 + 28191*x1^2*x2 + 18995*x1*x2^2 - 19497*x2^3 - 11770*x1^2*x3 + 15763*x1*x2*x3 - 23326*x2^2*x3 - 26541*x1*x3^2 + 7761*x2*x3^2 - 22104*x3^3 - 15706*x1^2*x4 + 4379*x1*x2*x4 + 17715*x2^2*x4 + 1967*x1*x3*x4 - 27984*x2*x3*x4 + 26452*x3^2*x4 + 29986*x1*x4^2 - 4710*x2*x4^2 + 28796*x3*x4^2 - 7183*x4^3 - 7817*x1^2*x5 + 27063*x1*x2*x5 + 16672*x2^2*x5 + 16660*x1*x3*x5 + 24359*x2*x3*x5 - 23578*x3^2*x5 + 15273*x1*x4*x5 - 18463*x2*x4*x5 + 20763*x3*x4*x5 - 24896*x4^2*x5 + 5922*x1*x5^2 - 26193*x2*x5^2 - 12798*x3*x5^2 + 18337*x4*x5^2 + 25267*x5^3 + 27245*x1^2*x6 + 19540*x1*x2*x6 + 18257*x2^2*x6 + 24233*x1*x3*x6 - 9767*x2*x3*x6 + 13943*x3^2*x6 - 5750*x1*x4*x6 + 21914*x2*x4*x6 + 12028*x3*x4*x6 + 15117*x4^2*x6 - 1602*x1*x5*x6 + 11666*x2*x5*x6 - 29397*x3*x5*x6 + 16149*x4*x5*x6 - 9954*x5^2*x6 + 5784*x1*x6^2 - 21998*x2*x6^2 - 18275*x3*x6^2 - 24442*x4*x6^2 - 22352*x5*x6^2 - 24151*x6^3 + 6989*x1^2*x7 + 23277*x1*x2*x7 - 32608*x2^2*x7 - 16865*x1*x3*x7 + 10834*x2*x3*x7 + 18323*x3^2*x7 - 4469*x1*x4*x7 + 7187*x2*x4*x7 - 32561*x3*x4*x7 - 10664*x4^2*x7 - 10338*x1*x5*x7 + 29395*x2*x5*x7 - 31428*x3*x5*x7 - 11366*x4*x5*x7 - 3133*x5^2*x7 - 27677*x1*x6*x7 - 27973*x2*x6*x7 - 7897*x3*x6*x7 + 25634*x4*x6*x7 - 24444*x5*x6*x7 - 6711*x6^2*x7 - 16299*x1*x7^2 + 32560*x2*x7^2 + 9733*x3*x7^2 + 13756*x4*x7^2 - 22922*x5*x7^2 + 14850*x6*x7^2 - 4129*x7^3 - 26267*x1^2 + 6460*x1*x2 - 7980*x2^2 + 24911*x1*x3 - 7588*x2*x3 - 31000*x3^2 - 11759*x1*x4 - 13343*x2*x4 - 22781*x3*x4 - 11097*x4^2 - 31512*x1*x5 + 772*x2*x5 - 14346*x3*x5 - 3312*x4*x5 - 19855*x5^2 - 31584*x1*x6 + 8658*x2*x6 + 2737*x3*x6 + 11401*x4*x6 - 11158*x5*x6 + 26544*x6^2 - 1371*x1*x7 - 8175*x2*x7 - 15956*x3*x7 + 20814*x4*x7 - 2314*x5*x7 - 26970*x6*x7 - 16349*x7^2 + 8862*x1 + 1230*x2 + 21275*x3 + 18147*x4 + 1911*x5 + 31107*x6 - 971*x7 + x8 + 28509, -23434*x1^3 - 12353*x1^2*x2 + 8917*x1*x2^2 + 25836*x2^3 + 18957*x1^2*x3 - 13228*x1*x2*x3 + 28191*x2^2*x3 - 14492*x1*x3^2 + 18995*x2*x3^2 - 19497*x3^3 - 29264*x1^2*x4 + 14631*x1*x2*x4 - 11770*x2^2*x4 - 24585*x1*x3*x4 + 15763*x2*x3*x4 - 23326*x3^2*x4 - 30845*x1*x4^2 - 26541*x2*x4^2 + 7761*x3*x4^2 - 22104*x4^3 - 15470*x1^2*x5 + 1076*x1*x2*x5 - 15706*x2^2*x5 + 20466*x1*x3*x5 + 4379*x2*x3*x5 + 17715*x3^2*x5 + 10420*x1*x4*x5 + 1967*x2*x4*x5 - 27984*x3*x4*x5 + 26452*x4^2*x5 - 31680*x1*x5^2 + 29986*x2*x5^2 - 4710*x3*x5^2 + 28796*x4*x5^2 - 7183*x5^3 - 29834*x1^2*x6 + 18440*x1*x2*x6 - 7817*x2^2*x6 - 3163*x1*x3*x6 + 27063*x2*x3*x6 + 16672*x3^2*x6 + 7347*x1*x4*x6 + 16660*x2*x4*x6 + 24359*x3*x4*x6 - 23578*x4^2*x6 - 19020*x1*x5*x6 + 15273*x2*x5*x6 - 18463*x3*x5*x6 + 20763*x4*x5*x6 - 24896*x5^2*x6 - 1738*x1*x6^2 + 5922*x2*x6^2 - 26193*x3*x6^2 - 12798*x4*x6^2 + 18337*x5*x6^2 + 25267*x6^3 - 15481*x1^2*x7 - 10460*x1*x2*x7 + 27245*x2^2*x7 + 2718*x1*x3*x7 + 19540*x2*x3*x7 + 18257*x3^2*x7 + 10258*x1*x4*x7 + 24233*x2*x4*x7 - 9767*x3*x4*x7 + 13943*x4^2*x7 - 28295*x1*x5*x7 - 5750*x2*x5*x7 + 21914*x3*x5*x7 + 12028*x4*x5*x7 + 15117*x5^2*x7 + 27554*x1*x6*x7 - 1602*x2*x6*x7 + 11666*x3*x6*x7 - 29397*x4*x6*x7 + 16149*x5*x6*x7 - 9954*x6^2*x7 + 18549*x1*x7^2 + 5784*x2*x7^2 - 21998*x3*x7^2 - 18275*x4*x7^2 - 24442*x5*x7^2 - 22352*x6*x7^2 - 24151*x7^3 + 13959*x1^2*x8 + 28447*x1*x2*x8 + 6989*x2^2*x8 - 16324*x1*x3*x8 + 23277*x2*x3*x8 - 32608*x3^2*x8 + 9021*x1*x4*x8 - 16865*x2*x4*x8 + 10834*x3*x4*x8 + 18323*x4^2*x8 - 10084*x1*x5*x8 - 4469*x2*x5*x8 + 7187*x3*x5*x8 - 32561*x4*x5*x8 - 10664*x5^2*x8 - 4268*x1*x6*x8 - 10338*x2*x6*x8 + 29395*x3*x6*x8 - 31428*x4*x6*x8 - 11366*x5*x6*x8 - 3133*x6^2*x8 + 28856*x1*x7*x8 - 27677*x2*x7*x8 - 27973*x3*x7*x8 - 7897*x4*x7*x8 + 25634*x5*x7*x8 - 24444*x6*x7*x8 - 6711*x7^2*x8 - 6767*x1*x8^2 - 16299*x2*x8^2 + 32560*x3*x8^2 + 9733*x4*x8^2 + 13756*x5*x8^2 - 22922*x6*x8^2 + 14850*x7*x8^2 - 4129*x8^3 + 22077*x1^2 + 24545*x1*x2 + 20347*x2^2 - 22100*x1*x3 - 27311*x2*x3 + 26029*x3^2 - 2461*x1*x4 - 3904*x2*x4 - 1917*x3*x4 + 11786*x4^2 - 8049*x1*x5 + 14307*x2*x5 + 10902*x3*x5 - 17576*x4*x5 - 10825*x5^2 + 21595*x1*x6 - 5198*x2*x6 + 5134*x3*x6 - 31583*x4*x6 + 4793*x5*x6 - 24936*x6^2 - 9194*x1*x7 - 32156*x2*x7 - 1491*x3*x7 + 3774*x4*x7 - 28230*x5*x7 + 4555*x6*x7 - 20372*x7^2 + 11587*x1*x8 - 5553*x2*x8 + 2157*x3*x8 + 31716*x4*x8 + 29107*x5*x8 - 25573*x6*x8 + 24668*x7*x8 + 31988*x8^2 + 2425*x1 + 8852*x2 + 20525*x3 - 12*x4 - 14389*x5 - 23243*x6 - 21849*x7 + 32004*x8 + x9 + 11296, -5736*x1^3 + 8557*x1^2*x2 + 4879*x1*x2^2 - 23434*x2^3 - 4050*x1^2*x3 - 23523*x1*x2*x3 - 12353*x2^2*x3 - 32342*x1*x3^2 + 8917*x2*x3^2 + 25836*x3^3 + 17714*x1^2*x4 + 15721*x1*x2*x4 + 18957*x2^2*x4 - 5917*x1*x3*x4 - 13228*x2*x3*x4 + 28191*x3^2*x4 - 8107*x1*x4^2 - 14492*x2*x4^2 + 18995*x3*x4^2 - 19497*x4^3 + 27273*x1^2*x5 - 23446*x1*x2*x5 - 29264*x2^2*x5 - 24308*x1*x3*x5 + 14631*x2*x3*x5 - 11770*x3^2*x5 - 9318*x1*x4*x5 - 24585*x2*x4*x5 + 15763*x3*x4*x5 - 23326*x4^2*x5 + 20889*x1*x5^2 - 30845*x2*x5^2 - 26541*x3*x5^2 + 7761*x4*x5^2 - 22104*x5^3 - 7761*x1^2*x6 + 4863*x1*x2*x6 - 15470*x2^2*x6 + 30477*x1*x3*x6 + 1076*x2*x3*x6 - 15706*x3^2*x6 - 2069*x1*x4*x6 + 20466*x2*x4*x6 + 4379*x3*x4*x6 + 17715*x4^2*x6 + 6028*x1*x5*x6 + 10420*x2*x5*x6 + 1967*x3*x5*x6 - 27984*x4*x5*x6 + 26452*x5^2*x6 + 21412*x1*x6^2 - 31680*x2*x6^2 + 29986*x3*x6^2 - 4710*x4*x6^2 + 28796*x5*x6^2 - 7183*x6^3 - 31925*x1^2*x7 - 19201*x1*x2*x7 - 29834*x2^2*x7 + 3751*x1*x3*x7 + 18440*x2*x3*x7 - 7817*x3^2*x7 + 2295*x1*x4*x7 - 3163*x2*x4*x7 + 27063*x3*x4*x7 + 16672*x4^2*x7 - 28220*x1*x5*x7 + 7347*x2*x5*x7 + 16660*x3*x5*x7 + 24359*x4*x5*x7 - 23578*x5^2*x7 - 8488*x1*x6*x7 - 19020*x2*x6*x7 + 15273*x3*x6*x7 - 18463*x4*x6*x7 + 20763*x5*x6*x7 - 24896*x6^2*x7 - 19391*x1*x7^2 - 1738*x2*x7^2 + 5922*x3*x7^2 - 26193*x4*x7^2 - 12798*x5*x7^2 + 18337*x6*x7^2 + 25267*x7^3 - 22467*x1^2*x8 - 3676*x1*x2*x8 - 15481*x2^2*x8 + 32053*x1*x3*x8 - 10460*x2*x3*x8 + 27245*x3^2*x8 - 29087*x1*x4*x8 + 2718*x2*x4*x8 + 19540*x3*x4*x8 + 18257*x4^2*x8 + 32494*x1*x5*x8 + 10258*x2*x5*x8 + 24233*x3*x5*x8 - 9767*x4*x5*x8 + 13943*x5^2*x8 - 31711*x1*x6*x8 - 28295*x2*x6*x8 - 5750*x3*x6*x8 + 21914*x4*x6*x8 + 12028*x5*x6*x8 + 15117*x6^2*x8 - 14669*x1*x7*x8 + 27554*x2*x7*x8 - 1602*x3*x7*x8 + 11666*x4*x7*x8 - 29397*x5*x7*x8 + 16149*x6*x7*x8 - 9954*x7^2*x8 - 16483*x1*x8^2 + 18549*x2*x8^2 + 5784*x3*x8^2 - 21998*x4*x8^2 - 18275*x5*x8^2 - 24442*x6*x8^2 - 22352*x7*x8^2 - 24151*x8^3 - 11001*x1^2*x9 + 25356*x1*x2*x9 + 13959*x2^2*x9 + 31145*x1*x3*x9 + 28447*x2*x3*x9 + 6989*x3^2*x9 + 19405*x1*x4*x9 - 16324*x2*x4*x9 + 23277*x3*x4*x9 - 32608*x4^2*x9 + 25893*x1*x5*x9 + 9021*x2*x5*x9 - 16865*x3*x5*x9 + 10834*x4*x5*x9 + 18323*x5^2*x9 - 24521*x1*x6*x9 - 10084*x2*x6*x9 - 4469*x3*x6*x9 + 7187*x4*x6*x9 - 32561*x5*x6*x9 - 10664*x6^2*x9 - 18591*x1*x7*x9 - 4268*x2*x7*x9 - 10338*x3*x7*x9 + 29395*x4*x7*x9 - 31428*x5*x7*x9 - 11366*x6*x7*x9 - 3133*x7^2*x9 + 20139*x1*x8*x9 + 28856*x2*x8*x9 - 27677*x3*x8*x9 - 27973*x4*x8*x9 - 7897*x5*x8*x9 + 25634*x6*x8*x9 - 24444*x7*x8*x9 - 6711*x8^2*x9 - 32562*x1*x9^2 - 6767*x2*x9^2 - 16299*x3*x9^2 + 32560*x4*x9^2 + 9733*x5*x9^2 + 13756*x6*x9^2 - 22922*x7*x9^2 + 14850*x8*x9^2 - 4129*x9^3 - 32223*x1^2 - 27144*x1*x2 + 6886*x2^2 - 3791*x1*x3 + 14446*x2*x3 - 24536*x3^2 + 9366*x1*x4 - 27982*x2*x4 + 9469*x3*x4 - 11697*x4^2 + 8591*x1*x5 - 29626*x2*x5 + 17031*x3*x5 - 3536*x4*x5 - 31646*x5^2 + 9382*x1*x6 - 1825*x2*x6 - 3960*x3*x6 - 24903*x4*x6 + 22299*x5*x6 - 21266*x6^2 + 3685*x1*x7 + 631*x2*x7 + 15191*x3*x7 + 8718*x4*x7 + 16559*x5*x7 - 2096*x6*x7 + 20036*x7^2 - 598*x1*x8 + 13357*x2*x8 - 30433*x3*x8 - 17310*x4*x8 + 9012*x5*x8 - 4496*x6*x8 + 27439*x7*x8 - 18335*x8^2 + 19453*x1*x9 - 3372*x2*x9 - 17010*x3*x9 - 4224*x4*x9 + 22820*x5*x9 + 19819*x6*x9 - 3047*x7*x9 + 10469*x8*x9 - 29654*x9^2 - 21172*x1 + 30921*x2 + 30655*x3 - 17925*x4 + 31134*x5 + 19190*x6 - 6276*x7 - 19464*x8 - 21805*x9 + x10 + 28804, 21892*x1^3 + 92*x1^2*x2 + 11593*x1*x2^2 - 6231*x2^3 + 5602*x1^2*x3 + 26908*x1*x2*x3 - 16275*x2^2*x3 - 200*x1*x3^2 - 6570*x2*x3^2 - 6313*x3^3 + 8110*x1^2*x4 + 29011*x1*x2*x4 + 21637*x2^2*x4 - 10884*x1*x3*x4 + 28593*x2*x3*x4 - 4444*x3^2*x4 - 25568*x1*x4^2 - 15574*x2*x4^2 + 30502*x3*x4^2 + 29201*x4^3 + 12378*x1^2*x5 - 9562*x1*x2*x5 + 8546*x2^2*x5 + 1930*x1*x3*x5 + 2799*x2*x3*x5 + 30296*x3^2*x5 + 23822*x1*x4*x5 + 20905*x2*x4*x5 + 19115*x3*x4*x5 - 2818*x4^2*x5 + 7137*x1*x5^2 - 26237*x2*x5^2 - 149*x3*x5^2 + 24875*x4*x5^2 - 29980*x5^3 + 16031*x1^2*x6 + 2395*x1*x2*x6 - 19927*x2^2*x6 + 3429*x1*x3*x6 + 4685*x2*x3*x6 - 8250*x3^2*x6 - 1534*x1*x4*x6 + 2483*x2*x4*x6 + 8139*x3*x4*x6 - 11135*x4^2*x6 - 16109*x1*x5*x6 + 30376*x2*x5*x6 + 28702*x3*x5*x6 + 5007*x4*x5*x6 + 24866*x5^2*x6 - 4064*x1*x6^2 + 14520*x2*x6^2 + 21229*x3*x6^2 + 28702*x4*x6^2 - 17396*x5*x6^2 - 27679*x6^3 + 6220*x1^2*x7 + 25057*x1*x2*x7 - 396*x2^2*x7 + 32676*x1*x3*x7 + 25622*x2*x3*x7 + 9973*x3^2*x7 + 32083*x1*x4*x7 - 28674*x2*x4*x7 - 7364*x3*x4*x7 + 211*x4^2*x7 - 10096*x1*x5*x7 - 525*x2*x5*x7 - 15976*x3*x5*x7 + 20851*x4*x5*x7 - 11292*x5^2*x7 - 32700*x1*x6*x7 - 20162*x2*x6*x7 + 548*x3*x6*x7 + 28559*x4*x6*x7 - 22940*x5*x6*x7 - 17906*x6^2*x7 - 15842*x1*x7^2 + 15082*x2*x7^2 - 4085*x3*x7^2 - 3085*x4*x7^2 + 28150*x5*x7^2 + 26970*x6*x7^2 + 31241*x7^3 - 27921*x1^2*x8 - 23701*x1*x2*x8 + 22853*x2^2*x8 - 32335*x1*x3*x8 + 950*x2*x3*x8 - 27387*x3^2*x8 + 14190*x1*x4*x8 + 32131*x2*x4*x8 - 27968*x3*x4*x8 + 13807*x4^2*x8 + 6457*x1*x5*x8 - 20484*x2*x5*x8 - 361*x3*x5*x8 + 13200*x4*x5*x8 - 21325*x5^2*x8 + 26428*x1*x6*x8 + 289*x2*x6*x8 + 29782*x3*x6*x8 + 27543*x4*x6*x8 + 4768*x5*x6*x8 - 14188*x6^2*x8 + 27716*x1*x7*x8 - 30162*x2*x7*x8 + 19003*x3*x7*x8 - 14521*x4*x7*x8 + 30165*x5*x7*x8 + 27556*x6*x7*x8 + 4164*x7^2*x8 - 30762*x1*x8^2 - 26027*x2*x8^2 + 24155*x3*x8^2 - 11975*x4*x8^2 + 2398*x5*x8^2 - 9467*x6*x8^2 + 13310*x7*x8^2 - 13199*x8^3 - 6904*x1^2*x9 + 8457*x1*x2*x9 - 12324*x2^2*x9 - 28307*x1*x3*x9 - 26113*x2*x3*x9 - 13177*x3^2*x9 + 28279*x1*x4*x9 - 2472*x2*x4*x9 - 2417*x3*x4*x9 + 26783*x4^2*x9 - 9409*x1*x5*x9 - 9439*x2*x5*x9 + 19005*x3*x5*x9 - 23009*x4*x5*x9 + 6203*x5^2*x9 - 10978*x1*x6*x9 + 12372*x2*x6*x9 + 21874*x3*x6*x9 + 32043*x4*x6*x9 + 32088*x5*x6*x9 - 15925*x6^2*x9 + 8577*x1*x7*x9 - 17377*x2*x7*x9 + 15368*x3*x7*x9 - 5230*x4*x7*x9 - 25758*x5*x7*x9 - 11940*x6*x7*x9 - 29999*x7^2*x9 - 28362*x1*x8*x9 + 29949*x2*x8*x9 - 29812*x3*x8*x9 - 13311*x4*x8*x9 + 26784*x5*x8*x9 + 23256*x6*x8*x9 - 225*x7*x8*x9 + 28737*x8^2*x9 - 25573*x1*x9^2 - 8262*x2*x9^2 - 1139*x3*x9^2 + 32751*x4*x9^2 - 18732*x5*x9^2 - 18127*x6*x9^2 + 23110*x7*x9^2 + 4286*x8*x9^2 + 25323*x9^3 + 20783*x1^2*x10 - 14302*x1*x2*x10 + 27571*x2^2*x10 - 12371*x1*x3*x10 + 17898*x2*x3*x10 - 24887*x3^2*x10 - 1488*x1*x4*x10 - 17528*x2*x4*x10 - 20917*x3*x4*x10 - 26576*x4^2*x10 - 29402*x1*x5*x10 - 14179*x2*x5*x10 - 7094*x3*x5*x10 - 17657*x4*x5*x10 - 14356*x5^2*x10 - 10183*x1*x6*x10 + 23922*x2*x6*x10 + 27878*x3*x6*x10 + 4211*x4*x6*x10 - 20685*x5*x6*x10 + 7494*x6^2*x10 - 708*x1*x7*x10 + 21744*x2*x7*x10 + 21070*x3*x7*x10 - 19194*x4*x7*x10 + 3768*x5*x7*x10 - 19310*x6*x7*x10 - 29688*x7^2*x10 - 16402*x1*x8*x10 - 28284*x2*x8*x10 + 17046*x3*x8*x10 + 23175*x4*x8*x10 - 2612*x5*x8*x10 - 7721*x6*x8*x10 + 8213*x7*x8*x10 - 10480*x8^2*x10 - 15428*x1*x9*x10 - 22054*x2*x9*x10 - 7771*x3*x9*x10 - 10037*x4*x9*x10 - 8687*x5*x9*x10 - 16632*x6*x9*x10 + 5962*x7*x9*x10 - 6821*x8*x9*x10 - 19484*x9^2*x10 - 10734*x1*x10^2 + 22390*x2*x10^2 - 20899*x3*x10^2 - 20377*x4*x10^2 + 25796*x5*x10^2 - 25241*x6*x10^2 - 16185*x7*x10^2 + 20321*x8*x10^2 - 5093*x9*x10^2 - 31659*x10^3 + 32746*x1^2 - 22649*x1*x2 - 276*x2^2 - 4625*x1*x3 - 29517*x2*x3 + 23496*x3^2 + 30116*x1*x4 + 31962*x2*x4 - 26385*x3*x4 + 14024*x4^2 - 6684*x1*x5 - 15579*x2*x5 - 31517*x3*x5 + 25407*x4*x5 - 26056*x5^2 - 4328*x1*x6 + 16591*x2*x6 + 359*x3*x6 - 25508*x4*x6 - 9618*x5*x6 - 7227*x6^2 - 26293*x1*x7 - 5336*x2*x7 - 9439*x3*x7 + 3975*x4*x7 - 12203*x5*x7 - 5005*x6*x7 - 19563*x7^2 - 19838*x1*x8 + 15727*x2*x8 - 16960*x3*x8 - 22736*x4*x8 + 5905*x5*x8 + 17986*x6*x8 - 592*x7*x8 + 18152*x8^2 + 26018*x1*x9 - 24999*x2*x9 + 5464*x3*x9 - 1277*x4*x9 - 12968*x5*x9 + 12305*x6*x9 + 18745*x7*x9 - 14313*x8*x9 + 27315*x9^2 + 32003*x1*x10 - 27322*x2*x10 + 16907*x3*x10 + 5574*x4*x10 + 29909*x5*x10 - 22774*x6*x10 - 7175*x7*x10 + 12109*x8*x10 - 21897*x9*x10 + 24386*x10^2 + 6374*x1 - 6575*x2 - 10856*x3 + 4006*x4 - 22002*x5 + 27981*x6 + 2187*x7 + 1587*x8 + 29307*x9 - 14804*x10 - 11778]
+Starting Gröbner basis computation…
+Finished computing Gröbner basis.
+gb:
+ Polynomial Sequence with 11667 Polynomials in 11 Variables
+Memory measuring process started… ((2, 9) rounds)
+[(10, 286), (108, 999), (574, 2895), (2259, 7302), (6411, 16014), (16248, 32212), (34348, 57899), (57642, 88348), (79366, 115067), (106925, 147375), (118562, 160178), (136575, 176946), (141588, 184134), (139274, 186302), (134486, 186341), (130253, 185801), (127630, 185328), (126412, 185065), (125986, 184955), (125879, 184919)]
+
+Experiment process started… ((2, 10) rounds)
+Starting experiment 'poseidon' over F_65519 with (2, 10) rounds.
+Retrieving polynomial system for poseidon…
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 0.001106000000000001)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 4.999999999999796e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 3.099999999999978e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.3999999999999716e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.5000000000000716e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.3000000000002185e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.3999999999999716e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.4000000000003185e-05)
+verbose 1 (_calc_equivalent_constants) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_constants) done with echelonize (time = 2.4999999999997247e-05)
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 6.799999999999862e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 6.500000000000256e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 2.3999999999999716e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.9999999999999185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.7000000000003124e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.9000000000001654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8999999999998185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8000000000000654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.8000000000000654e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) Calling echelonize mod 65519.
+verbose 1 (_calc_equivalent_matrices) done with echelonize (time = 1.7999999999997185e-05)
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 2 x 2 matrix by 2 x 1 matrix modulo 65519
+verbose 1 (_calc_equivalent_matrices) mod-p multiply of 3 x 3 matrix by 3 x 3 matrix modulo 65519
+slurmstepd: error: *** JOB 11078861 ON mcs-computeA010 CANCELLED AT 2023-03-02T15:58:42 DUE TO TIME LIMIT ***

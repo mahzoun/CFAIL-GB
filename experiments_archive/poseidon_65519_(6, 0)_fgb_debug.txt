@@ -1,0 +1,16 @@
+INCREASE HEAP 463051536
+[3](12x64)100%/[2](6x15)100%/[3](14x29)100%/[3](10x22)100%/[3](12x21)100%/[4](43x118)100%/[3](57x67)100%/[4](120x128)100%/[4](169x173)100%/[3](121x194)100%/[4](519x506)100%/[4](450x419)100%/[4](298x476)100%/[4](695x1122)100%/[4](1100x1101)100%/[4](922x938)100%/[4](814x959)100%/[5](2370x2101)100%/[5](2219x1832)100%/[5](1303x1417)100%/[6]Process Process-5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/mairon/Documents/PhD/projects/CFAIL-GB/Poseidon/last_squeeze_attack.sage.py", line 86, in __call__
+    gb = self.compute_gb(system, result_path)
+  File "/home/mairon/Documents/PhD/projects/CFAIL-GB/Poseidon/last_squeeze_attack.sage.py", line 151, in compute_gb
+    gb = fgb_sage.groebner_basis(system, threads=_sage_const_64 , verbosity=_sage_const_1 , matrix_bound=_sage_const_10 **_sage_const_7 )
+  File "/home/mairon/.sage/local/lib/python3.10/site-packages/fgb_sage/fgb_sage.py", line 119, in groebner_basis
+    gb = fgb_eliminate(polyseq, n_elim_variables, **kwds)
+  File "fgb_sage/_fgb_sage_modp.pyx", line 86, in fgb_sage._fgb_sage_modp.fgb_eliminate
+  File "fgb_sage/_fgb_sage_modp.pyx", line 162, in fgb_sage._fgb_sage_modp.FGbComputation.run
+KeyboardInterrupt

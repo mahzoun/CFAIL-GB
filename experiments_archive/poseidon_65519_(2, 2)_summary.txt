@@ -1,0 +1,18 @@
+macaulay bound:    9
+time system:       0.010755584
+len system:        4
+max deg in system: 3
+deg histogram:     {3: 4}
+#coeffs in system: 41
+ –––
+total exp time:    1.0734508037567139
+max memory usage:  162716 KiB
+           that's  0.155178070068359 GiB
+FGb's…
+  …total time:     0.01
+  …symb+linalg:    0.01
+  …symb (steps):   0
+  …lin  (steps):   0
+  …biggest matrix: (30, 54)
+  …max degree:     8
+  …error msg:      ''

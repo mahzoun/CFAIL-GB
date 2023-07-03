@@ -1,0 +1,5 @@
+INCREASE HEAP 463051536
+
+Elapsed time: 0.00s/0.00s (Total/Symb+Linalg)
+Mingbasis2
+(2x7)100%/

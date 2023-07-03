@@ -1,0 +1,6 @@
+macaulay bound:    29
+time system:       0.007253801999999999
+len system:        14
+max deg in system: 3
+deg histogram:     {3: 14}
+#coeffs in system: 229
