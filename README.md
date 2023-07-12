@@ -1,5 +1,6 @@
 # Implementation for CFAIL GB paper
 
+This code is based on https://github.com/ASDiscreteMathematics/gb_benchmarks with some changes. 
 
 ## Requirements
 The code uses [fgb_sage](https://fgb-sage.readthedocs.io/en/latest/) library. We run the code on `Linux 5.16.13-1.el7.elrepo.x86_64` machine with `Intel(R) Xeon(R) E-2124 CPU @ 3.30GHz` and `512 GB` memory.
